@@ -45,3 +45,7 @@
 [31May2025 01:41:29.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
 [31May2025 01:47:22.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
 [31May2025 01:47:22.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[31May2025 01:50:19.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:37795] logged in with entity id 1838 at (-71.98830055580495, 69.0, 28.24089065490554)
+[31May2025 01:50:19.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[31May2025 01:51:00.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Monster Hunter]
+[31May2025 01:51:14.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Sweet Dreams]
