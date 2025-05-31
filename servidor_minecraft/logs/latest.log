@@ -597,3 +597,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [31May2025 15:20:54.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
 [31May2025 15:20:54.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
 [31May2025 15:20:54.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[31May2025 15:30:20.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:43767] logged in with entity id 8906 at (-517.6095596082946, 63.9375, 375.03951143184514)
+[31May2025 15:30:20.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[31May2025 15:30:22.172] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[31May2025 15:30:22.173] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[31May2025 15:34:58.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[31May2025 15:34:58.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[31May2025 15:34:58.213] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[31May2025 15:36:02.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:42929] logged in with entity id 10037 at (-487.6295001611981, 72.0, 320.59284779619907)
+[31May2025 15:36:02.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[31May2025 15:36:03.285] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[31May2025 15:36:03.286] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[31May2025 15:37:04.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Flowers of the Savanna]
