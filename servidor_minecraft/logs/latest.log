@@ -585,3 +585,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [31May2025 14:37:01.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
 [31May2025 14:37:01.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
 [31May2025 14:37:01.106] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[31May2025 15:05:17.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:58997] logged in with entity id 3429 at (-278.0815276104896, 68.0, 101.25008240911967)
+[31May2025 15:05:17.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[31May2025 15:05:19.158] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[31May2025 15:05:19.158] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[31May2025 15:06:07.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set the time to 1000]
