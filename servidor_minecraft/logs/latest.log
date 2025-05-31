@@ -612,3 +612,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [31May2025 15:45:37.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
 [31May2025 15:45:37.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
 [31May2025 15:45:37.400] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[31May2025 15:48:48.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:57535] logged in with entity id 13227 at (9.202842705452696, 96.0, -92.30000001192093)
+[31May2025 15:48:48.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[31May2025 15:48:50.602] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[31May2025 15:48:50.602] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[31May2025 15:50:10.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[31May2025 15:50:10.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[31May2025 15:50:10.350] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[31May2025 15:53:57.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:52779] logged in with entity id 13505 at (15.431217028924214, 93.0, -110.30000001192093)
+[31May2025 15:53:57.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[31May2025 15:53:59.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[31May2025 15:53:59.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
