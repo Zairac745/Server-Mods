@@ -212,7 +212,8 @@
     "criteria": {
       "cooked_mutton": "2025-05-31 15:06:39 +0000",
       "beef": "2025-05-31 01:43:21 +0000",
-      "mutton": "2025-05-31 01:51:44 +0000"
+      "mutton": "2025-05-31 01:51:44 +0000",
+      "bread": "2025-05-31 15:37:49 +0000"
     },
     "done": false
   },
@@ -2136,12 +2137,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/food/general/garlic_bread": {
-    "criteria": {
-      "has_bread": "2025-05-31 15:33:45 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-05-31 15:33:38 +0000"
@@ -2169,6 +2164,54 @@
   "vampiresdelight:recipes/cooking/dandelion_beer_bottle": {
     "criteria": {
       "has_any_ingredient": "2025-05-31 15:33:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2025-05-31 15:33:45 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/black_bar_stool": {
+    "criteria": {
+      "has_black_wool": "2025-05-31 15:44:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 15:37:07 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black": {
+    "criteria": {
+      "has_wool": "2025-05-31 15:44:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_wool": "2025-05-31 15:44:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-31 15:43:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-05-31 15:37:04 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/black_flag": {
+    "criteria": {
+      "has_black_flag": "2025-05-31 15:44:26 +0000"
     },
     "done": true
   },

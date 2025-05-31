@@ -9899,3 +9899,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [31May2025 15:36:03.286] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
 [31May2025 15:37:04.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Flowers of the Savanna]
 [31May2025 15:37:12.416] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity alexsmobs:blue_jay
+[31May2025 15:37:43.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 15:37:43.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 15:38:16.460] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[31May2025 15:42:43.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 15:42:43.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 15:45:37.399] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[31May2025 15:45:37.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[31May2025 15:45:37.400] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Zairac74509
+[31May2025 15:45:37.400] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
