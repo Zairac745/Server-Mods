@@ -590,3 +590,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanyp
 [31May2025 15:05:19.158] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
 [31May2025 15:05:19.158] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
 [31May2025 15:06:07.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set the time to 1000]
+[31May2025 15:08:38.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Crops of the Wild]
+[31May2025 15:11:31.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [It's an Emu!!!]
+[31May2025 15:12:47.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Acquire Hardware]
