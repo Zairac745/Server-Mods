@@ -84,6 +84,8 @@
       "minecraft:snowy_plains": "2025-06-01 00:10:22 +0000",
       "minecraft:snowy_taiga": "2025-06-01 00:08:18 +0000",
       "minecraft:swamp": "2025-06-01 03:52:00 +0000",
+      "minecraft:grove": "2025-06-02 19:04:26 +0000",
+      "minecraft:jagged_peaks": "2025-06-02 19:04:25 +0000",
       "minecraft:cold_ocean": "2025-05-31 18:59:49 +0000",
       "minecraft:forest": "2025-05-31 17:39:51 +0000",
       "minecraft:lush_caves": "2025-06-01 02:30:09 +0000",
@@ -5443,9 +5445,21 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/dark_oak_window": {
+  "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
-      "has_ingredient": "2025-06-02 18:34:58 +0000"
+      "bestiary": "2025-06-02 18:17:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-02 18:20:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-02 18:20:54 +0000"
     },
     "done": true
   },
@@ -5467,27 +5481,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-06-02 18:48:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-02 18:34:58 +0000"
-    },
-    "done": true
-  },
   "celestial_artifacts:recipes/misc/precious_bracelet": {
     "criteria": {
       "has_amethyst_shard": "2025-06-02 18:33:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-06-02 18:34:58 +0000"
     },
     "done": true
   },
@@ -5503,9 +5499,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
-      "has_bow": "2025-06-02 18:20:54 +0000"
+      "has_amethyst_shard": "2025-06-02 18:33:58 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/amethyst_reinforce_plate": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-02 18:33:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-02 18:33:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-02 18:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-02 18:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-02 18:34:58 +0000"
     },
     "done": true
   },
@@ -5527,27 +5553,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-02 18:33:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-06-02 18:34:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2025-06-02 18:48:25 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/amethyst_reinforce_plate": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-02 18:33:58 +0000"
     },
     "done": true
   },
@@ -5563,12 +5571,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-06-02 18:20:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-06-02 18:34:58 +0000"
@@ -5581,21 +5583,87 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 18:48:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-06-02 18:48:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2025-06-02 18:48:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "alexscaves:alexscaves/extinction_spear": {
     "criteria": {
-      "has_amethyst_shard": "2025-06-02 18:33:58 +0000"
+      "dreadbow": "2025-06-02 18:54:02 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/gorgon_head": {
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
-      "bestiary": "2025-06-02 18:17:53 +0000"
+      "has_item": "2025-06-02 18:58:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-02 18:58:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-02 19:00:32 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-02 19:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-02 19:19:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-02 19:19:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-02 19:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-02 19:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-02 19:19:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 19:19:09 +0000"
     },
     "done": true
   },

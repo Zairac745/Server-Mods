@@ -662,3 +662,68 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [02Jun2025 18:44:37.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
 [02Jun2025 18:45:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [A Flaming Sword]
 [02Jun2025 18:54:02.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Spear of Ages]
+[02Jun2025 18:58:54.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Dragonslayer]
+[02Jun2025 19:00:32.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Who You Gonna Call?]
+[02Jun2025 19:00:48.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Rude Awakening]
+[02Jun2025 19:01:42.783] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[02Jun2025 19:01:50.028] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[02Jun2025 19:02:52.177] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[02Jun2025 19:03:06.127] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[02Jun2025 19:04:17.572] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jun2025 19:04:17.573] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jun2025 19:04:44.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[02Jun2025 19:04:44.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[02Jun2025 19:04:44.060] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[02Jun2025 19:04:44.100] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jun2025 19:04:51.049] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[02Jun2025 19:05:20.158] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[02Jun2025 19:05:30.335] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[02Jun2025 19:06:05.640] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2ed817a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:40687): Took too long to log in
+[02Jun2025 19:06:05.641] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ed817a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:40687) lost connection: Took too long to log in
+[02Jun2025 19:06:05.670] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jun2025 19:06:22.170] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4bec0607[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:59003) lost connection: Disconnected
+[02Jun2025 19:06:31.023] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a1378e7[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:50497) lost connection: Disconnected
+[02Jun2025 19:06:44.724] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fe12a3e[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:43703) lost connection: Disconnected
+[02Jun2025 19:06:46.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[02Jun2025 19:06:59.723] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e52f46b[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:39127) lost connection: Disconnected
+[02Jun2025 19:07:13.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[02Jun2025 19:07:14.921] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d0969e5[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:47795) lost connection: Disconnected
+[02Jun2025 19:07:24.770] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@eec4a77[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:38555) lost connection: Disconnected
+[02Jun2025 19:07:35.369] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c3a0855[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:42989) lost connection: Disconnected
+[02Jun2025 19:08:08.319] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6bc3f0d4[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:57863): Took too long to log in
+[02Jun2025 19:08:08.320] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6bc3f0d4[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:57863) lost connection: Took too long to log in
+[02Jun2025 19:08:08.372] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jun2025 19:08:50.369] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6e10bf06[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:57321): Took too long to log in
+[02Jun2025 19:08:50.370] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e10bf06[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:57321) lost connection: Took too long to log in
+[02Jun2025 19:08:50.425] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jun2025 19:09:08.922] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@198005f5[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:60677) lost connection: Disconnected
+[02Jun2025 19:09:26.022] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dd4d60[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:51995) lost connection: Disconnected
+[02Jun2025 19:11:03.317] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79f7dfcf[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:58717) lost connection: Disconnected
+[02Jun2025 19:11:29.319] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@159d01f2[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:60521) lost connection: Disconnected
+[02Jun2025 19:12:12.628] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3c57a30e[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:43287): Took too long to log in
+[02Jun2025 19:12:12.629] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c57a30e[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:43287) lost connection: Took too long to log in
+[02Jun2025 19:12:12.667] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jun2025 19:12:48.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:58235] logged in with entity id 33574 at (3420.216724797361, 93.13090509176254, 12412.503404705143)
+[02Jun2025 19:12:48.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[02Jun2025 19:12:48.885] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[02Jun2025 19:12:48.886] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[02Jun2025 19:13:38.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[02Jun2025 19:13:38.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[02Jun2025 19:13:38.421] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[02Jun2025 19:17:11.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:56523] logged in with entity id 34896 at (3372.148440652861, 109.0, 12520.867478462651)
+[02Jun2025 19:17:11.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[02Jun2025 19:17:11.638] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[02Jun2025 19:17:11.639] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[02Jun2025 19:18:30.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to camilxdk1]
+[02Jun2025 19:19:04.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [My Name is Nobody]
+[02Jun2025 19:19:43.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Splintering II]
+[02Jun2025 19:19:49.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [A Flaming Sword]
+[02Jun2025 19:21:11.627] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 19:21:11.627] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 19:21:11.628] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 19:21:11.628] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 19:21:11.628] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 19:21:11.628] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 19:21:11.628] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 19:24:46.131] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jun2025 19:24:47.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
