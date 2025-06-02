@@ -7325,6 +7325,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-06-02 23:23:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
     "criteria": {
       "has_sea_serpent_scales_purple": "2025-06-02 22:42:00 +0000"
@@ -7366,6 +7372,12 @@
       "helmet": "2025-06-02 22:59:36 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-02 23:20:30 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
     "criteria": {

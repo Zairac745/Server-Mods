@@ -1822,3 +1822,10 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [02Jun2025 23:14:00.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Killed 135 entities]
 [02Jun2025 23:14:11.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
 [02Jun2025 23:14:12.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[02Jun2025 23:23:54.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Mother of Dragons]
+[02Jun2025 23:27:50.136] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:49895] logged in with entity id 229758 at (8379.39612966459, -59.1875, 10928.438638633577)
+[02Jun2025 23:27:50.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[02Jun2025 23:27:52.826] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[02Jun2025 23:27:52.826] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[02Jun2025 23:29:19.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[02Jun2025 23:29:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
