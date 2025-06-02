@@ -69,15 +69,20 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-01 03:18:31 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-31 23:25:43 +0000",
+      "minecraft:mushroom_fields": "2025-06-02 22:40:19 +0000",
       "minecraft:taiga": "2025-05-31 22:42:07 +0000",
       "minecraft:deep_ocean": "2025-05-31 18:55:01 +0000",
+      "minecraft:eroded_badlands": "2025-06-02 22:26:47 +0000",
       "minecraft:frozen_river": "2025-06-01 00:10:31 +0000",
       "minecraft:sunflower_plains": "2025-05-31 17:59:31 +0000",
       "minecraft:cherry_grove": "2025-06-01 03:18:22 +0000",
       "minecraft:birch_forest": "2025-05-31 22:41:59 +0000",
       "minecraft:windswept_hills": "2025-06-01 02:19:06 +0000",
+      "minecraft:bamboo_jungle": "2025-06-02 22:25:37 +0000",
+      "minecraft:badlands": "2025-06-02 22:26:54 +0000",
       "minecraft:beach": "2025-05-31 23:40:48 +0000",
       "minecraft:dark_forest": "2025-06-01 02:27:33 +0000",
+      "minecraft:sparse_jungle": "2025-06-02 22:25:41 +0000",
       "minecraft:river": "2025-05-31 18:21:51 +0000",
       "minecraft:lukewarm_ocean": "2025-06-01 03:18:41 +0000",
       "minecraft:stony_shore": "2025-05-31 18:59:53 +0000",
@@ -94,6 +99,7 @@
       "minecraft:frozen_ocean": "2025-05-31 23:58:19 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-02 19:35:43 +0000",
       "minecraft:ocean": "2025-05-31 18:53:58 +0000",
+      "minecraft:jungle": "2025-06-02 22:25:30 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-31 23:25:46 +0000",
       "minecraft:snowy_beach": "2025-06-01 00:09:16 +0000",
       "minecraft:windswept_savanna": "2025-06-01 02:19:14 +0000",
@@ -7235,9 +7241,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-02 22:45:58 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/flame_arrow_bag": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-02 22:45:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
     "criteria": {
       "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-06-02 22:42:00 +0000"
     },
     "done": true
   },
@@ -7247,9 +7271,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-02 22:42:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
     "criteria": {
       "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-02 22:45:58 +0000"
     },
     "done": true
   },
@@ -7265,6 +7301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-02 22:45:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
     "criteria": {
       "has_barrel": "2025-06-02 21:49:06 +0000"
@@ -7274,6 +7316,12 @@
   "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
     "criteria": {
       "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-06-02 22:42:00 +0000"
     },
     "done": true
   },
@@ -7289,11 +7337,29 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-06-02 22:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone": {
     "criteria": {
       "has_broken_bone": "2025-06-02 21:41:53 +0000"
     },
     "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-06-02 22:42:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-06-02 22:59:36 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
     "criteria": {
@@ -7322,6 +7388,18 @@
   "create:recipes/building_blocks/crafting/logistics/black_postbox": {
     "criteria": {
       "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-06-02 22:41:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-06-02 22:42:00 +0000"
     },
     "done": true
   },

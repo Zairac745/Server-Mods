@@ -71,10 +71,14 @@
       "minecraft:old_growth_pine_taiga": "2025-06-01 00:23:25 +0000",
       "minecraft:taiga": "2025-06-01 00:23:18 +0000",
       "minecraft:deep_ocean": "2025-05-31 23:51:27 +0000",
+      "minecraft:eroded_badlands": "2025-06-02 22:26:47 +0000",
       "minecraft:frozen_river": "2025-06-01 00:10:32 +0000",
       "minecraft:sunflower_plains": "2025-05-31 18:14:07 +0000",
       "minecraft:birch_forest": "2025-05-31 18:41:29 +0000",
+      "minecraft:bamboo_jungle": "2025-06-02 22:25:37 +0000",
+      "minecraft:badlands": "2025-06-02 22:26:53 +0000",
       "minecraft:beach": "2025-05-31 23:41:24 +0000",
+      "minecraft:sparse_jungle": "2025-06-02 22:25:41 +0000",
       "minecraft:river": "2025-05-31 23:58:01 +0000",
       "minecraft:lukewarm_ocean": "2025-06-01 03:58:49 +0000",
       "minecraft:snowy_plains": "2025-06-01 00:10:22 +0000",
@@ -87,6 +91,7 @@
       "minecraft:deep_cold_ocean": "2025-05-31 23:52:29 +0000",
       "minecraft:frozen_ocean": "2025-05-31 23:58:19 +0000",
       "minecraft:ocean": "2025-05-31 23:37:42 +0000",
+      "minecraft:jungle": "2025-06-02 22:25:29 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-01 00:23:44 +0000",
       "minecraft:snowy_beach": "2025-06-01 00:08:08 +0000",
       "minecraft:windswept_savanna": "2025-06-02 19:41:03 +0000",
@@ -105,7 +110,8 @@
       "minecraft:spider": "2025-05-31 18:30:46 +0000",
       "minecraft:creeper": "2025-05-31 19:02:52 +0000",
       "minecraft:phantom": "2025-06-02 20:22:20 +0000",
-      "minecraft:zombie": "2025-05-31 18:10:35 +0000"
+      "minecraft:zombie": "2025-05-31 18:10:35 +0000",
+      "minecraft:drowned": "2025-06-02 22:39:48 +0000"
     },
     "done": false
   },
@@ -5211,6 +5217,24 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-06-02 22:53:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-02 21:48:46 +0000",
@@ -5249,6 +5273,13 @@
     },
     "done": true
   },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000",
+      "flower": "2025-06-02 23:01:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-02 19:36:43 +0000"
@@ -5276,6 +5307,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-06-02 22:53:44 +0000"
     },
     "done": true
   },
@@ -5339,6 +5376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-02 22:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-02 21:39:58 +0000"
@@ -5348,6 +5391,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-06-02 19:42:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-06-02 22:48:16 +0000"
     },
     "done": true
   },
@@ -5362,6 +5411,18 @@
       "has_redstone": "2025-06-02 19:30:29 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/experience_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-02 22:53:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
@@ -5381,11 +5442,23 @@
     },
     "done": true
   },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -5396,6 +5469,24 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-02 22:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-02 22:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-02 22:25:00 +0000"
     },
     "done": true
   },
@@ -5423,6 +5514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-02 22:25:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
@@ -5434,6 +5531,18 @@
       "entered_nether": "2025-06-02 21:36:41 +0000"
     },
     "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-02 22:53:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
@@ -5450,6 +5559,18 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-06-02 22:48:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-02 22:54:17 +0000"
     },
     "done": true
   },
@@ -5513,6 +5634,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-06-02 23:01:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-06-02 22:53:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-02 19:36:43 +0000"
@@ -5549,11 +5682,23 @@
     },
     "done": true
   },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-02 19:36:43 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
@@ -5579,9 +5724,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-02 22:39:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/sea_god_scroll": {
+    "criteria": {
+      "has_trident": "2025-06-02 22:39:49 +0000"
     },
     "done": true
   },
@@ -5606,6 +5763,12 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
     },
     "done": true
   },
@@ -5639,9 +5802,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-06-02 22:38:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-06-02 22:53:44 +0000"
     },
     "done": true
   },
@@ -5657,9 +5832,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-02 22:40:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "celestial_core:recipes/misc/earth_core": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-02 22:39:25 +0000"
     },
     "done": true
   },

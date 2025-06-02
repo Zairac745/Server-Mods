@@ -1546,3 +1546,270 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [02Jun2025 22:16:54.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
 [02Jun2025 22:17:42.722] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
 [02Jun2025 22:18:00.728] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[02Jun2025 22:20:09.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[02Jun2025 22:20:09.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[02Jun2025 22:20:09.676] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[02Jun2025 22:21:10.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:57245] logged in with entity id 156579 at (3625.4580016810223, 99.54167298285545, 5344.36151206198)
+[02Jun2025 22:21:11.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[02Jun2025 22:21:11.634] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[02Jun2025 22:21:11.635] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[02Jun2025 22:22:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to 2320.500000, 63.500000, 4166.500000]
+[02Jun2025 22:22:46.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to Hachiko2357]
+[02Jun2025 22:23:00.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:23:17.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.27704683122283313
+[02Jun2025 22:23:25.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:25:31.990] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[02Jun2025 22:25:33.489] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[02Jun2025 22:25:33.490] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[02Jun2025 22:25:33.490] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[02Jun2025 22:25:33.820] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[02Jun2025 22:26:56.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[02Jun2025 22:26:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[02Jun2025 22:26:56.787] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[02Jun2025 22:27:31.419] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[02Jun2025 22:27:31.486] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[02Jun2025 22:28:30.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:43181] logged in with entity id 162677 at (5356.900728722973, 302.8490793741449, 5606.013387141918)
+[02Jun2025 22:28:30.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[02Jun2025 22:28:31.526] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[02Jun2025 22:28:31.526] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[02Jun2025 22:28:35.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:37.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:38.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:41.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:42.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:44.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:45.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:46.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:50.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:53.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:53.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.4076697186092133,9.359789891422679,3.2107365515857964
+[02Jun2025 22:28:53.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.59136962014054,9.892087936400003,3.384501590920081
+[02Jun2025 22:28:53.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.7748107831830566,10.425605717715825,3.5580987646335416
+[02Jun2025 22:28:53.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.9578674596396013,10.960341092577892,3.7314081651857123
+[02Jun2025 22:28:54.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:56.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:28:56.827] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=271, y=77, z=271}
+[02Jun2025 22:29:03.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:06.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:13.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:16.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:17.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:19.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:20.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:21.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:27.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:30.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:38.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:42.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:47.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:48.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:53.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:54.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:56.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:29:58.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:03.771] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[02Jun2025 22:30:03.905] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[02Jun2025 22:30:03.906] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[02Jun2025 22:30:03.906] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[02Jun2025 22:30:03.906] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[02Jun2025 22:30:04.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:04.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:05.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:06.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:06.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:07.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:07.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:07.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:08.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:08.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:08.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:10.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:10.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:11.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:11.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:11.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:13.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:15.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:16.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:19.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -14.056819168211405,1.392794494606278,-15.185289463331173
+[02Jun2025 22:30:19.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -13.437380008108448,1.328329402470672,-14.5175735462999
+[02Jun2025 22:30:19.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -12.818370052265891,1.2638196136226725,-13.850338103933609
+[02Jun2025 22:30:19.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -12.199861639779556,1.1998556555849973,-13.183509547826361
+[02Jun2025 22:30:19.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -11.58185541156763,1.1359570031136172,-12.517042835694156
+[02Jun2025 22:30:19.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -10.964241160855636,1.0724108698736927,-11.851075056248192
+[02Jun2025 22:30:19.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -10.347147785125344,1.0093793151690988,-11.185531011610692
+[02Jun2025 22:30:19.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -9.730036492126601,0.9461534235799718,-10.51993991225936
+[02Jun2025 22:30:19.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -9.113450957724126,0.8834933558987359,-9.8547766101874
+[02Jun2025 22:30:19.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -8.49785280852393,0.8210500570542081,-9.190581456206019
+[02Jun2025 22:30:19.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -7.882760909880744,0.7588539307537303,-8.526888114657595
+[02Jun2025 22:30:19.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -7.268287247316039,0.6969039186392365,-7.863583772227685
+[02Jun2025 22:30:19.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 7.334763223072514,-0.7149441873123124,7.925428348241439
+[02Jun2025 22:30:19.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:21.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:24.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -26.515122658443943,2.794713141298189,-28.99195772782423
+[02Jun2025 22:30:24.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -25.938052203679945,2.7387884819545434,-28.363561529950857
+[02Jun2025 22:30:24.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -25.361478852672917,2.682748029565346,-27.73565798072923
+[02Jun2025 22:30:24.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:24.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -24.785452287309454,2.626657274589661,-27.108225051540103
+[02Jun2025 22:30:24.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -24.209967677279565,2.5705076905328497,-26.481261376881776
+[02Jun2025 22:30:24.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -23.63500462822958,2.514312190766532,-25.854730534096234
+[02Jun2025 22:30:24.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -23.060542426599568,2.458096831177045,-25.22869601244929
+[02Jun2025 22:30:24.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -22.48657747483685,2.4017616309263303,-24.60315414029992
+[02Jun2025 22:30:24.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -21.913113157787848,2.345404879034504,-23.978108855142636
+[02Jun2025 22:30:24.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -21.340145911662148,2.2889266824320202,-23.35355643724506
+[02Jun2025 22:30:24.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -20.767704613795104,2.2323434177369563,-22.729449374685828
+[02Jun2025 22:30:24.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -21.8621986417038,2.362909178780228,-23.93307536961038
+[02Jun2025 22:30:24.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -21.845892386984815,2.3676720186588227,-23.91827621299126
+[02Jun2025 22:30:24.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -21.274904820251322,2.3108006079960433,-23.295461386782335
+[02Jun2025 22:30:24.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -20.704423164713262,2.253806503715168,-22.67307844523657
+[02Jun2025 22:30:24.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:24.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -20.134441176081054,2.19668776393587,-22.051123838251442
+[02Jun2025 22:30:24.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -19.564456418338523,2.139648814983275,-21.429294803798257
+[02Jun2025 22:30:24.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -18.995449014873884,2.0823720810446957,-20.808217549930305
+[02Jun2025 22:30:24.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -18.426939021273938,2.0249659626570065,-20.187633122240186
+[02Jun2025 22:30:24.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -17.858911944088504,1.9674061429373069,-19.567459797282936
+[02Jun2025 22:30:24.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -17.29089809670404,1.9098551665028936,-18.947245538190145
+[02Jun2025 22:30:24.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -16.723746549652788,1.8519628201875094,-18.3278918600854
+[02Jun2025 22:30:24.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -16.15706177406173,1.7939245298598507,-17.708930684771076
+[02Jun2025 22:30:24.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -15.590774941213567,1.7357688655636139,-17.09031891003542
+[02Jun2025 22:30:24.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -15.024985554997329,1.6774778138899364,-16.472200144136877
+[02Jun2025 22:30:24.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -14.459649415690365,1.6190204054789774,-15.85445821969006
+[02Jun2025 22:30:24.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -13.89472115251101,1.5603622995076876,-15.237077637950279
+[02Jun2025 22:30:24.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -13.330284256595405,1.5015678315880905,-14.6200711606416
+[02Jun2025 22:30:24.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -12.766220976064687,1.442638360529827,-14.003432538495872
+[02Jun2025 22:30:24.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -12.202531169883514,1.383573504114338,-13.38716191531148
+[02Jun2025 22:30:24.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:24.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -11.63932912731434,1.324271313124882,-12.771261543705805
+[02Jun2025 22:30:24.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -11.076494579230712,1.2648337080347574,-12.155610143418016
+[02Jun2025 22:30:24.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -10.514068890694034,1.2052083665969349,-11.540301422053744
+[02Jun2025 22:30:24.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -9.95204554564134,1.1453944952884285,-10.925329451181824
+[02Jun2025 22:30:24.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -9.39044667941289,1.0854399533113792,-10.310783744597757
+[02Jun2025 22:30:25.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -10.493016136318147,1.2105928759508515,-11.520028203819493
+[02Jun2025 22:30:25.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -9.93215502185376,1.1502605500322716,-10.906095460889446
+[02Jun2025 22:30:25.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -9.371663980193262,1.089687491355562,-10.292526792362878
+[02Jun2025 22:30:25.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -8.811549611630653,1.0289147856217369,-9.679258961900814
+[02Jun2025 22:30:25.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -8.251804729799005,0.9679406453444699,-9.066286358556681
+[02Jun2025 22:30:25.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -7.692422295534925,0.906763142765385,-8.45360319777501
+[02Jun2025 22:30:25.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -7.133400700141465,0.845423119114912,-7.841141914961554
+[02Jun2025 22:30:25.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:25.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:25.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:26.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:27.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:30.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:32.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:34.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:35.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:36.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:39.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:40.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:42.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:43.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:44.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:45.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:46.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:48.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:51.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:52.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:52.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:53.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:54.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:55.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:56.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:57.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:30:58.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:01.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:02.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:03.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:03.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:05.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:06.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:08.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:08.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:09.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:09.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:09.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:10.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:10.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:31:11.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:32:00.803] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=101, z=295}
+[02Jun2025 22:33:01.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:03.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:03.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:04.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:08.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:08.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:09.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:09.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:11.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:12.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:13.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:14.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:15.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:17.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:18.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:21.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:23.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:24.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:25.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:26.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:27.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:28.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:29.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:30.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:30.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported camilxdk1 to Zairac74509]
+[02Jun2025 22:33:45.645] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jun2025 22:33:45.645] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jun2025 22:33:48.339] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jun2025 22:33:48.339] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jun2025 22:34:58.504] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=9035, y=-1711, z=10121}
+[02Jun2025 22:38:06.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has reached the goal [Beyond the Sea]
+[02Jun2025 22:38:06.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Beyond the Sea]
+[02Jun2025 22:39:25.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Who is Cutting Onions?]
+[02Jun2025 22:40:57.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [The Shadow Over Mine's Craft]
+[02Jun2025 22:41:22.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Beyond the Sea]
+[02Jun2025 22:48:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Nether Wart] to Zairac74509]
+[02Jun2025 22:52:01.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Redstone Dust] to Zairac74509]
+[02Jun2025 22:54:17.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [A Flaming Sword]
+[02Jun2025 22:56:03.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[02Jun2025 22:56:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[02Jun2025 22:56:03.921] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[02Jun2025 22:57:00.078] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@93219d0[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:55913) lost connection: Disconnected
+[02Jun2025 22:57:32.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:46411] logged in with entity id 194071 at (8341.974741114273, 63.0, 10961.743273123271)
+[02Jun2025 22:57:32.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[02Jun2025 22:57:32.985] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[02Jun2025 22:57:32.985] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[02Jun2025 23:01:06.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Bloody Stream]
+[02Jun2025 23:01:44.326] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/197747, l='ServerLevel[world]', x=8339.74, y=63.00, z=10961.41]
+[02Jun2025 23:04:25.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=8340, y=64, z=10962} BlockPos{x=8346, y=-48, z=10941}
+[02Jun2025 23:05:03.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The Shadow Over Mine's Craft]
+[02Jun2025 23:05:47.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[02Jun2025 23:05:47.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[02Jun2025 23:05:47.878] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[02Jun2025 23:05:51.984] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=8345, y=64, z=10951}
+[02Jun2025 23:06:56.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Shell City]
+[02Jun2025 23:07:00.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:53037] logged in with entity id 204627 at (8379.39612966459, -59.1875, 10928.438638633577)
+[02Jun2025 23:07:00.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[02Jun2025 23:07:01.290] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[02Jun2025 23:07:01.291] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
+[02Jun2025 23:07:30.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[02Jun2025 23:07:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[02Jun2025 23:07:30.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[02Jun2025 23:07:50.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Shell City]
+[02Jun2025 23:08:50.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Buff Out Those Scratches]
+[02Jun2025 23:08:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Captain Nemo]

@@ -71,13 +71,17 @@
       "minecraft:old_growth_pine_taiga": "2025-05-31 19:01:59 +0000",
       "minecraft:taiga": "2025-05-31 19:00:23 +0000",
       "minecraft:deep_ocean": "2025-05-31 18:57:07 +0000",
+      "minecraft:eroded_badlands": "2025-06-02 22:26:47 +0000",
       "minecraft:frozen_river": "2025-06-01 00:10:32 +0000",
       "minecraft:sunflower_plains": "2025-05-31 17:59:22 +0000",
       "minecraft:cherry_grove": "2025-06-01 03:18:22 +0000",
       "minecraft:birch_forest": "2025-06-01 03:17:58 +0000",
       "minecraft:windswept_hills": "2025-06-01 02:19:06 +0000",
+      "minecraft:bamboo_jungle": "2025-06-02 22:25:36 +0000",
+      "minecraft:badlands": "2025-06-02 22:26:53 +0000",
       "minecraft:beach": "2025-05-31 18:33:18 +0000",
       "minecraft:dark_forest": "2025-06-01 02:27:33 +0000",
+      "minecraft:sparse_jungle": "2025-06-02 22:25:41 +0000",
       "minecraft:river": "2025-05-31 23:50:00 +0000",
       "minecraft:lukewarm_ocean": "2025-06-01 03:18:41 +0000",
       "minecraft:stony_shore": "2025-05-31 18:59:53 +0000",
@@ -93,6 +97,7 @@
       "minecraft:frozen_ocean": "2025-05-31 23:58:19 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-02 19:35:43 +0000",
       "minecraft:ocean": "2025-05-31 18:53:58 +0000",
+      "minecraft:jungle": "2025-06-02 22:25:29 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-31 19:02:55 +0000",
       "minecraft:snowy_beach": "2025-06-01 00:08:08 +0000",
       "minecraft:windswept_savanna": "2025-06-01 02:19:14 +0000",
@@ -5990,6 +5995,138 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-06-02 22:05:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-06-02 22:38:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-06-02 23:00:31 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-06-02 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-02 23:05:03 +0000"
     },
     "done": true
   },
