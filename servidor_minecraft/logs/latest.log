@@ -1508,3 +1508,41 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [02Jun2025 21:44:38.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [02Jun2025 21:44:38.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [02Jun2025 21:53:10.104] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=293, y=101, z=295}
+[02Jun2025 21:58:16.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 was shot by Skeleton
+[02Jun2025 22:00:37.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Hachiko2357 a server operator]
+[02Jun2025 22:03:17.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hachiko2357: Set own game mode to Creative Mode]
+[02Jun2025 22:03:45.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to camilxdk1]
+[02Jun2025 22:04:28.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Wingin' It]
+[02Jun2025 22:05:07.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hachiko2357: Set own game mode to Spectator Mode]
+[02Jun2025 22:05:14.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Hachiko2357 no longer a server operator]
+[02Jun2025 22:05:50.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Hachiko2357 a server operator]
+[02Jun2025 22:05:59.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hachiko2357: Set own game mode to Survival Mode]
+[02Jun2025 22:07:05.645] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at 8105 2 11015 in 1s
+[02Jun2025 22:07:51.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Made Hachiko2357 no longer a server operator]
+[02Jun2025 22:08:02.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.woodcutter'/147542, l='ServerLevel[world]', x=2325.71, y=63.71, z=4169.48] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was engulfed by camilxdk1's blazing fires'
+[02Jun2025 22:08:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Magery]
+[02Jun2025 22:09:57.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Dinosaur Chop] to Zairac74509]
+[02Jun2025 22:09:57.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Dinosaur Chop] to Zairac74509]
+[02Jun2025 22:10:03.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.25301675230366527
+[02Jun2025 22:10:03.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6034235229667502
+[02Jun2025 22:10:03.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.5339311340580934
+[02Jun2025 22:10:03.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.464615433419567
+[02Jun2025 22:10:03.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 3.398323758067818
+[02Jun2025 22:10:03.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 4.333650178354674
+[02Jun2025 22:10:03.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 5.271203269932812
+[02Jun2025 22:10:03.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 6.209947808923971
+[02Jun2025 22:10:54.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3109754662709747
+[02Jun2025 22:10:54.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5695940799223536
+[02Jun2025 22:10:54.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7871855149392104
+[02Jun2025 22:10:54.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9726527255311339
+[02Jun2025 22:10:54.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.1330162921740339
+[02Jun2025 22:11:36.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.woodcutter'/147544, l='ServerLevel[world]', x=2277.28, y=60.00, z=4146.20] died, message: 'entity.minecraft.villager.more_villargers.woodcutter drowned'
+[02Jun2025 22:13:56.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.woodcutter'/147541, l='ServerLevel[world]', x=2311.32, y=63.00, z=4105.46] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was slain by Zombie'
+[02Jun2025 22:16:09.463] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[02Jun2025 22:16:15.218] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[02Jun2025 22:16:23.268] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[02Jun2025 22:16:37.686] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[02Jun2025 22:16:47.021] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[02Jun2025 22:16:54.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[02Jun2025 22:17:42.722] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[02Jun2025 22:18:00.728] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe

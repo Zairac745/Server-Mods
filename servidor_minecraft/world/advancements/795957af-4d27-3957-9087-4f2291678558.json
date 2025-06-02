@@ -5981,5 +5981,17 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-06-02 22:04:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-02 22:05:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

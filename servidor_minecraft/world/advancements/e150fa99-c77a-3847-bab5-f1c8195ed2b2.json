@@ -5214,7 +5214,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-02 21:48:46 +0000",
-      "minecraft:soul_sand_valley": "2025-06-02 21:36:43 +0000"
+      "minecraft:soul_sand_valley": "2025-06-02 21:36:43 +0000",
+      "minecraft:basalt_deltas": "2025-06-02 22:04:18 +0000"
     },
     "done": false
   },
@@ -5611,6 +5612,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-06-02 21:43:37 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-06-02 22:08:03 +0000"
     },
     "done": true
   },
