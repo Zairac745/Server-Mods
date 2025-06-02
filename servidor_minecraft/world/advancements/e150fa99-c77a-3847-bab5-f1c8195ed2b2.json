@@ -5223,6 +5223,12 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-06-02 23:13:00 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
       "main": "2025-06-02 22:59:48 +0000"
@@ -5691,6 +5697,18 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-02 23:14:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-06-02 23:07:50 +0000"
     },
     "done": true
   },
