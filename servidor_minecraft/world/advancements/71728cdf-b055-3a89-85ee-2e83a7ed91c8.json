@@ -6947,6 +6947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_blue_from_white": {
     "criteria": {
       "has_dye": "2025-06-02 19:59:48 +0000"
@@ -6974,6 +6980,12 @@
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-06-02 20:10:51 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/sea_god_crown": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
     },
     "done": true
   },
@@ -7079,9 +7091,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-02 21:12:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-02 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/small_blue_industrial_lamp": {
     "criteria": {
       "has_small_blue_industrial_lamp": "2025-06-02 19:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
     },
     "done": true
   },
@@ -7142,6 +7178,12 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-06-02 20:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-02 21:12:55 +0000"
     },
     "done": true
   },
