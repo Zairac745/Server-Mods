@@ -642,3 +642,18 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [02Jun2025 18:30:23.731] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
 [02Jun2025 18:30:23.732] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
 [02Jun2025 18:32:38.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Rude Awakening]
+[02Jun2025 18:33:51.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Who You Gonna Call?]
+[02Jun2025 18:34:05.698] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 18:34:05.698] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 18:34:05.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 18:34:05.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 18:34:05.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 18:34:05.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 18:34:05.699] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 18:34:05.700] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[02Jun2025 18:37:13.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Local Brewery]
+[02Jun2025 18:39:37.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/6138, l='ServerLevel[world]', x=2319.70, y=64.00, z=4122.47] died, message: 'Nitwit was slain by Zombie'
+[02Jun2025 18:40:34.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was pierced by Cryomancer's icicle
+[02Jun2025 18:41:41.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After camilxdk1 froze to death, they gave up
+[02Jun2025 18:42:31.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 was crushed by Cryomancer's giant block of ice
+[02Jun2025 18:42:42.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Song of the Dragons]

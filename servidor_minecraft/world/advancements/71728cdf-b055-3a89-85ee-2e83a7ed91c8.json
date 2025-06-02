@@ -6288,6 +6288,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/dark_stone_brick_wall": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-02 18:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-06-02 18:39:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
       "has_item": "2025-06-02 18:14:34 +0000"
@@ -6297,6 +6327,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-02 18:16:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 18:34:51 +0000"
     },
     "done": true
   },
@@ -6330,9 +6366,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-02 18:16:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-06-02 18:39:34 +0000"
     },
     "done": true
   },
@@ -6342,9 +6390,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-06-02 18:39:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
       "has_item": "2025-06-02 18:14:34 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/decorations/dark_stone_stove": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-06-02 18:39:34 +0000"
     },
     "done": true
   },
@@ -6360,9 +6432,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_slab": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-06-02 18:17:00 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-06-02 18:32:38 +0000"
     },
     "done": true
   },
@@ -6378,6 +6468,42 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-06-02 18:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-06-02 18:34:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-02 18:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_dark_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/cracked_dark_stone_bricks": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-06-02 18:14:34 +0000"
@@ -6387,6 +6513,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-02 18:16:54 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_brick_stairs": {
+    "criteria": {
+      "has_dark_stone_bricks": "2025-06-02 18:34:03 +0000"
     },
     "done": true
   },
