@@ -5436,6 +5436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
@@ -5543,6 +5549,12 @@
       "main": "2025-06-02 22:59:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
@@ -5658,6 +5670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/extra_storage": {
     "criteria": {
       "main": "2025-06-02 22:59:48 +0000"
@@ -5763,6 +5781,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
     },
     "done": true
   },
@@ -5937,6 +5961,12 @@
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-06-02 23:30:46 +0000"
     },
     "done": true
   },

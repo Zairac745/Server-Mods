@@ -7301,6 +7301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
     "criteria": {
       "has_barrel": "2025-06-02 21:49:06 +0000"
@@ -7310,6 +7316,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-06-02 22:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:34 +0000"
     },
     "done": true
   },
@@ -7367,6 +7379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:34 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
       "helmet": "2025-06-02 22:59:36 +0000"
@@ -7376,6 +7394,12 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2025-06-02 23:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:34 +0000"
     },
     "done": true
   },
@@ -7400,6 +7424,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-06-02 23:30:27 +0000"
     },
     "done": true
   },
@@ -7448,6 +7478,12 @@
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-06-02 23:30:27 +0000"
     },
     "done": true
   },

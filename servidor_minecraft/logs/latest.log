@@ -1829,3 +1829,20 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [02Jun2025 23:27:52.826] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1
 [02Jun2025 23:29:19.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
 [02Jun2025 23:29:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[02Jun2025 23:30:27.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Diamonds of the Sea]
+[02Jun2025 23:30:27.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Bring Forth The Mollusk]
+[02Jun2025 23:30:46.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Bring Forth The Mollusk]
+[02Jun2025 23:36:05.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[02Jun2025 23:38:15.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to camilxdk1]
+[02Jun2025 23:38:23.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to camilxdk1]
+[02Jun2025 23:41:51.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[02Jun2025 23:41:51.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[02Jun2025 23:41:51.233] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[02Jun2025 23:42:21.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Mother of Dragons]
+[02Jun2025 23:43:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Diamonds of the Sea]
+[02Jun2025 23:44:25.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Applied effect Water Breathing to Zairac74509]
+[02Jun2025 23:44:40.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Applied effect Night Vision to Zairac74509]
+[02Jun2025 23:47:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[02Jun2025 23:47:56.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[02Jun2025 23:48:11.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[02Jun2025 23:48:12.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
