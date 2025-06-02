@@ -9771,3 +9771,14 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [02Jun2025 18:42:32.793] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: camilxdk1 has new faction level vampirism:vampire 3
 [02Jun2025 18:42:32.805] [Server thread/DEBUG] [twilightforest/]: Player camilxdk1 (795957af-4d27-3957-9087-4f2291678558) respawned and received items held in storage
 [02Jun2025 18:42:42.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Song of the Dragons]
+[02Jun2025 18:44:37.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[02Jun2025 18:44:37.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[02Jun2025 18:44:37.100] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Hachiko2357
+[02Jun2025 18:44:37.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[02Jun2025 18:45:03.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 18:45:03.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 18:45:16.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [A Flaming Sword]
+[02Jun2025 18:46:48.040] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:arrow_volley 1: [bce6a5be-0fe6-406b-8b57-eaf57709e712]
+[02Jun2025 18:50:03.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 18:50:03.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 18:54:02.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Spear of Ages]

@@ -5467,6 +5467,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-06-02 18:48:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-02 18:34:58 +0000"
@@ -5533,6 +5539,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-06-02 18:48:25 +0000"
+    },
+    "done": true
+  },
   "celestial_artifacts:recipes/misc/amethyst_reinforce_plate": {
     "criteria": {
       "has_amethyst_shard": "2025-06-02 18:33:58 +0000"
@@ -5566,6 +5578,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-02 18:37:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-06-02 18:48:25 +0000"
     },
     "done": true
   },
