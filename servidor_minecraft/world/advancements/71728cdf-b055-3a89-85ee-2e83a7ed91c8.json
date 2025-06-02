@@ -92,6 +92,7 @@
       "minecraft:lush_caves": "2025-06-01 02:30:10 +0000",
       "minecraft:deep_cold_ocean": "2025-05-31 23:52:29 +0000",
       "minecraft:frozen_ocean": "2025-05-31 23:58:19 +0000",
+      "minecraft:deep_frozen_ocean": "2025-06-02 19:35:43 +0000",
       "minecraft:ocean": "2025-05-31 18:53:58 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-31 23:25:46 +0000",
       "minecraft:snowy_beach": "2025-06-01 00:09:16 +0000",
@@ -6693,9 +6694,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-02 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-06-02 19:39:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-06-02 19:39:01 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
     "criteria": {
       "has_pure_blood": "2025-06-02 19:21:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-02 19:39:30 +0000"
     },
     "done": true
   },
@@ -6705,9 +6730,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-02 19:43:58 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:recipes/cooking/weird_jelly_block": {
     "criteria": {
       "has_any_ingredient": "2025-06-02 19:21:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-06-02 19:43:58 +0000"
     },
     "done": true
   },
@@ -6717,9 +6754,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-06-02 19:39:30 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
     "criteria": {
       "has_pure_blood": "2025-06-02 19:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-06-02 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-06-02 19:43:58 +0000"
     },
     "done": true
   },
@@ -6741,9 +6796,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-06-02 19:39:30 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-06-02 19:27:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-06-02 19:44:03 +0000"
     },
     "done": true
   },
@@ -6765,6 +6838,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-06-02 19:44:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-06-02 19:43:58 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/hunter/pure_blood0": {
     "criteria": {
       "has_pure_blood": "2025-06-02 19:21:14 +0000"
@@ -6774,6 +6859,18 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-02 19:32:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-06-02 19:43:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-06-02 19:39:30 +0000"
     },
     "done": true
   },
