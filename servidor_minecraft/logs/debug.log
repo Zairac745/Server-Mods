@@ -21331,3 +21331,47 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [02Jun2025 20:54:09.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
 [02Jun2025 20:55:03.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jun2025 20:55:03.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 20:57:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:3748:71:10550:2:false:0:Internal-overworld-waypoints
+[02Jun2025 20:58:03.908] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:potoo
+[02Jun2025 20:58:10.914] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:sugar_glider
+[02Jun2025 20:58:13.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to 2320.500000, 63.500000, 4166.500000]
+[02Jun2025 20:58:41.657] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: MissingWaystone
+[02Jun2025 21:00:03.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 21:00:03.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 21:00:11.232] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fc0624c9-7fb0-45f6-a6f1-3a13291e2f15]
+[02Jun2025 21:00:12.534] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [fc0624c9-7fb0-45f6-a6f1-3a13291e2f15]
+[02Jun2025 21:01:40.732] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:40.733] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:40.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:40.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:41.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:41.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:41.484] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:41.484] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:41.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:41.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:41.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:41.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:42.241] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:42.241] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:42.485] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:42.485] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:42.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:42.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:42.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:42.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:43.235] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:43.235] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:43.486] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:43.486] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:43.734] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:43.734] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:43.982] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:01:43.982] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[02Jun2025 21:02:06.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5079168590373229
+[02Jun2025 21:02:06.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.4345978679475593
+[02Jun2025 21:02:06.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.36860817754404707
+[02Jun2025 21:02:06.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.30638492791240424
+[02Jun2025 21:05:03.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jun2025 21:05:03.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jun2025 21:05:13.633] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/98366, l='ServerLevel[world]', x=3710.20, y=19.00, z=10475.29]
