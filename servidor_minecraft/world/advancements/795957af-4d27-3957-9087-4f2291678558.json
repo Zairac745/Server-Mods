@@ -5753,6 +5753,36 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/backtrack_mirror": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-02 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2025-06-02 20:21:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-02 20:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-02 20:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-02 20:29:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-02 20:30:07 +0000"
@@ -5789,12 +5819,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
-    "criteria": {
-      "requirement": "2025-06-02 20:38:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-02 20:30:07 +0000"
@@ -5822,18 +5846,6 @@
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-02 20:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-06-02 20:29:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-06-02 20:29:15 +0000"
     },
     "done": true
   },
@@ -5879,21 +5891,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone": {
-    "criteria": {
-      "has_broken_bone": "2025-06-02 20:21:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-02 20:30:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-06-02 20:31:00 +0000"
     },
     "done": true
   },
@@ -5909,21 +5909,9 @@
     },
     "done": true
   },
-  "celestial_artifacts:recipes/misc/backtrack_mirror": {
-    "criteria": {
-      "has_ender_pearl": "2025-06-02 20:16:28 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-02 20:30:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-06-02 20:31:00 +0000"
     },
     "done": true
   },
@@ -5936,12 +5924,6 @@
   "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-06-02 20:30:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-06-02 20:31:00 +0000"
     },
     "done": true
   },
@@ -5975,9 +5957,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
-      "has_raw_copper": "2025-06-02 20:29:15 +0000"
+      "has_raw_silver": "2025-06-02 20:31:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-06-02 20:31:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-06-02 20:31:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-06-02 20:38:04 +0000"
     },
     "done": true
   },

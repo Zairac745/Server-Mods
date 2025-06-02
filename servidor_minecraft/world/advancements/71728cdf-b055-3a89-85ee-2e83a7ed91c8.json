@@ -6947,9 +6947,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
-      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
+      "has_slime_ball": "2025-06-02 19:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-02 19:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-02 19:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-02 19:58:00 +0000"
     },
     "done": true
   },
@@ -6971,57 +6989,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2025-06-02 20:10:51 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/sea_god_crown": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-06-02 20:44:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-02 20:50:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-02 19:59:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-02 20:31:31 +0000"
     },
     "done": true
   },
@@ -7037,33 +7007,9 @@
     },
     "done": true
   },
-  "vampiresdelight:recipes/cooking/daisy_tea": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-06-02 20:50:07 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/blue_industrial_lamp": {
     "criteria": {
       "has_blue_industrial_lamp": "2025-06-02 19:59:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-06-02 19:58:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-06-02 19:58:00 +0000"
     },
     "done": true
   },
@@ -7091,87 +7037,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-06-02 21:12:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-02 21:12:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
-    },
-    "done": true
-  },
   "ad_astra:recipes/misc/small_blue_industrial_lamp": {
     "criteria": {
       "has_small_blue_industrial_lamp": "2025-06-02 19:59:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
+  "vampiresdelight:recipes/building_blocks/dye_blue_bar_stool": {
     "criteria": {
-      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
-    "criteria": {
-      "requirement": "2025-06-02 21:02:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-06-02 20:08:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-06-02 19:58:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_ingot": {
-    "criteria": {
-      "has_item": "2025-06-02 20:08:31 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/blood_grinder": {
-    "criteria": {
-      "has_hopper": "2025-06-02 20:39:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-06-02 20:08:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-06-02 20:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-06-02 19:58:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
+      "has_needed_dye": "2025-06-02 19:59:48 +0000"
     },
     "done": true
   },
@@ -7181,15 +7055,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_prismarine_crystals": "2025-06-02 21:12:55 +0000"
+      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
-      "has_oxeye_daisy": "2025-06-02 20:50:07 +0000"
+      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-02 20:08:22 +0000"
     },
     "done": true
   },
@@ -7199,15 +7091,255 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-06-02 20:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-06-02 20:08:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-06-02 20:08:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-06-02 20:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-02 20:31:31 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_grinder": {
+    "criteria": {
+      "has_hopper": "2025-06-02 20:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-02 20:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-02 20:50:07 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/cooking/daisy_tea": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-02 20:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-02 20:50:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-02 20:50:08 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-06-02 20:50:39 +0000"
     },
     "done": true
   },
-  "vampiresdelight:recipes/building_blocks/dye_blue_bar_stool": {
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
-      "has_needed_dye": "2025-06-02 19:59:48 +0000"
+      "requirement": "2025-06-02 21:02:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-02 21:12:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-02 21:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-02 21:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/sea_god_crown": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-02 21:12:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-02 21:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-02 21:19:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_jelly": {
+    "criteria": {
+      "gustmaker": "2025-06-02 21:24:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2025-06-02 21:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-06-02 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
+    "criteria": {
+      "has_barrel": "2025-06-02 21:49:06 +0000"
     },
     "done": true
   },
