@@ -5205,68 +5205,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/totem_top": {
-    "criteria": {
-      "has_obsidian": "2025-06-02 21:27:40 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/blood_cult": {
-    "criteria": {
-      "main": "2025-06-02 22:59:48 +0000"
-    },
-    "done": false
-  },
-  "alexscaves:alexscaves/ride_submarine": {
-    "criteria": {
-      "ride_a_boat_with_a_goat": "2025-06-02 23:13:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/freeze_kill": {
-    "criteria": {
-      "main": "2025-06-02 22:59:48 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/appliances/copper_backtank": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_leggings": {
-    "criteria": {
-      "has_item": "2025-06-02 22:53:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-06-02 21:48:46 +0000",
-      "minecraft:soul_sand_valley": "2025-06-02 21:36:43 +0000",
-      "minecraft:basalt_deltas": "2025-06-02 22:04:18 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-06-02 21:39:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
@@ -5279,94 +5217,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/first_blood": {
-    "criteria": {
-      "main": "2025-06-02 22:59:48 +0000",
-      "flower": "2025-06-02 23:01:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_granite": {
-    "criteria": {
-      "has_quartz": "2025-06-02 21:39:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-06-02 19:30:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-06-02 22:53:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-06-02 21:43:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-06-02 21:39:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-06-02 21:39:58 +0000"
     },
     "done": true
   },
@@ -5376,69 +5229,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-06-02 21:39:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-06-02 19:32:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-06-02 21:39:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/prayer_crown": {
-    "criteria": {
-      "has_redstone_block": "2025-06-02 20:32:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
     },
     "done": true
   },
@@ -5448,81 +5241,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-06-02 22:25:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-06-02 21:39:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-02 19:42:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/hunter/hunter_table": {
-    "criteria": {
-      "has_fang": "2025-06-02 22:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-06-02 20:32:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/experience_bottle": {
-    "criteria": {
-      "has_glass_bottle": "2025-06-02 22:53:32 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/kill_mother": {
-    "criteria": {
-      "main": "2025-06-02 22:59:48 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-06-02 21:27:40 +0000"
     },
     "done": true
   },
@@ -5538,81 +5259,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/resurrect": {
-    "criteria": {
-      "main": "2025-06-02 22:59:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/bat": {
-    "criteria": {
-      "main": "2025-06-02 22:59:48 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-02 21:39:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/hunter/potion_table": {
-    "criteria": {
-      "has_glass_bottle": "2025-06-02 22:53:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-06-02 22:39:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-06-02 22:25:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-06-02 21:43:37 +0000"
     },
     "done": true
   },
@@ -5634,53 +5283,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-06-02 22:25:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
     },
     "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-02 21:36:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-02 22:53:44 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/copper_reinforce_plate": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/extra_storage": {
-    "criteria": {
-      "main": "2025-06-02 22:59:48 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
@@ -5700,57 +5307,9 @@
     },
     "done": true
   },
-  "vampirism:main/root": {
-    "criteria": {
-      "main": "2025-06-02 22:48:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-06-02 22:54:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-06-02 21:39:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_observer": {
-    "criteria": {
-      "has_quartz": "2025-06-02 21:39:58 +0000"
-    },
-    "done": true
-  },
-  "vampiresdelight:recipes/food/bat_taco": {
-    "criteria": {
-      "has_cooked_bat": "2025-06-02 21:26:54 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
     },
     "done": true
   },
@@ -5760,69 +5319,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-06-02 20:32:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/totem_base": {
-    "criteria": {
-      "has_obsidian": "2025-06-02 21:27:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
-    "criteria": {
-      "has_blood_bottle": "2025-06-02 23:01:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2025-06-02 22:53:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/transmitter": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-06-02 21:39:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_valve": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
     },
     "done": true
   },
@@ -5832,69 +5331,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-06-02 21:39:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
   "celestial_artifacts:recipes/misc/life_bracelet": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/yuck": {
-    "criteria": {
-      "main": "2025-06-02 22:59:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-06-02 23:14:38 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_ruins": {
-    "criteria": {
-      "abyssal_ruins": "2025-06-02 23:07:50 +0000"
-    },
-    "done": true
-  },
-  "vampirism:vampire/sniped": {
-    "criteria": {
-      "main": "2025-06-02 22:59:48 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-06-02 19:33:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
     },
     "done": true
   },
@@ -5904,33 +5343,9 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-06-02 21:36:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-06-02 22:39:25 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-06-02 19:30:29 +0000"
-    },
-    "done": true
-  },
-  "celestial_artifacts:recipes/misc/sea_god_scroll": {
-    "criteria": {
-      "has_trident": "2025-06-02 22:39:49 +0000"
     },
     "done": true
   },
@@ -5958,15 +5373,293 @@
     },
     "done": true
   },
-  "vampirism:vampire/become_vampire": {
+  "vampirism:recipes/misc/vampire/garlic_finder": {
     "criteria": {
-      "main": "2025-06-02 22:59:48 +0000"
+      "has_redstone": "2025-06-02 19:30:29 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/mussel": {
+  "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
-      "mussel": "2025-06-02 23:30:46 +0000"
+      "has_redstone": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-02 19:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-02 19:32:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-06-02 19:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-02 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-02 19:42:03 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/prayer_crown": {
+    "criteria": {
+      "has_redstone_block": "2025-06-02 20:32:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-06-02 20:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-06-02 20:32:10 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/bat_taco": {
+    "criteria": {
+      "has_cooked_bat": "2025-06-02 21:26:54 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2025-06-02 21:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-02 21:27:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2025-06-02 21:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/crying_obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-06-02 21:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-02 21:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-02 21:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-02 21:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-02 21:48:46 +0000",
+      "minecraft:soul_sand_valley": "2025-06-02 21:36:43 +0000",
+      "minecraft:basalt_deltas": "2025-06-02 22:04:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-02 21:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-02 21:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-02 21:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-02 21:39:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-06-02 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-06-02 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-06-02 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-06-02 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-06-02 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-06-02 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-06-02 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-06-02 21:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-02 21:43:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-06-02 21:43:37 +0000"
     },
     "done": true
   },
@@ -5982,27 +5675,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_stone": "2025-06-02 19:36:43 +0000"
+      "has_kelp": "2025-06-02 22:25:00 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/misc/vampire/garlic_finder": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "has_redstone": "2025-06-02 19:30:29 +0000"
+      "has_kelp": "2025-06-02 22:25:00 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/crying_obsidian": {
-    "criteria": {
-      "has_obsidian": "2025-06-02 21:27:40 +0000"
+      "has_kelp": "2025-06-02 22:25:00 +0000"
     },
     "done": true
   },
@@ -6012,45 +5699,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_block_modifier": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_redstone": "2025-06-02 19:30:29 +0000"
+      "crying_obsidian": "2025-06-02 22:39:25 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_boots": {
+  "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
-      "has_item": "2025-06-02 22:53:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-06-02 21:27:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/rose_quartz": {
-    "criteria": {
-      "has_item": "2025-06-02 19:30:29 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/stalked_by_deep_one": {
-    "criteria": {
-      "stalked_by_deep_one": "2025-06-02 22:40:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
-    "criteria": {
-      "has_item": "2025-06-02 23:19:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/cage_trap": {
-    "criteria": {
-      "has_redstone": "2025-06-02 19:30:29 +0000"
+      "has_obsidian": "2025-06-02 22:39:25 +0000"
     },
     "done": true
   },
@@ -6060,9 +5717,358 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "celestial_artifacts:recipes/misc/sea_god_scroll": {
     "criteria": {
-      "has_redstone": "2025-06-02 19:30:29 +0000"
+      "has_trident": "2025-06-02 22:39:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-06-02 22:40:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-06-02 22:48:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-06-02 22:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/experience_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-02 22:53:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-02 22:53:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-06-02 22:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-06-02 22:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-02 22:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-06-02 22:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-06-02 22:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-06-02 22:54:17 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000",
+      "flower": "2025-06-02 23:01:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-06-02 22:59:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-06-02 23:01:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-06-02 23:07:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-06-02 23:13:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-02 23:14:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/copper_reinforce_plate": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-06-02 23:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-06-02 23:30:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-06-02 23:30:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-06-03 19:36:09 +0000"
     },
     "done": true
   },
