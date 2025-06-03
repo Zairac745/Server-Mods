@@ -984,6 +984,7 @@
       "minecraft:piglin": "2025-06-01 23:10:53 +0000",
       "minecraft:enderman": "2025-06-01 05:12:30 +0000",
       "minecraft:stray": "2025-06-02 19:18:34 +0000",
+      "minecraft:silverfish": "2025-06-03 21:05:45 +0000",
       "minecraft:zombie": "2025-05-31 17:45:49 +0000",
       "minecraft:drowned": "2025-05-31 23:48:07 +0000",
       "minecraft:zombie_villager": "2025-06-01 01:40:08 +0000"
@@ -7502,9 +7503,46 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2025-06-03 21:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-03 21:18:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-06-03 21:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-03 20:03:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "darkwood_sapling": "2025-06-03 21:18:05 +0000",
+      "canopy_sapling": "2025-06-03 21:03:43 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_feather": "2025-06-03 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-06-03 20:37:08 +0000"
     },
     "done": true
   },
@@ -7532,9 +7570,40 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2025-06-03 21:09:07 +0000",
+      "kill_naga": "2025-06-03 21:02:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-06-03 20:03:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-06-03 21:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-06-03 20:41:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-06-03 21:25:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-06-03 20:41:04 +0000"
     },
     "done": true
   },
@@ -7544,9 +7613,63 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-06-03 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-06-03 21:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-03 21:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-06-03 20:41:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-06-03 21:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-03 20:50:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-06-03 20:52:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-06-03 21:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-03 21:02:02 +0000"
     },
     "done": true
   },
@@ -7561,6 +7684,37 @@
       "has_bone_meal": "2025-06-03 20:03:17 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-06-03 21:09:07 +0000",
+      "trophy_pedestal": "2025-06-03 21:25:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "raven": "2025-06-03 20:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-06-03 20:41:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-06-03 20:54:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-06-03 21:09:07 +0000"
+    },
+    "done": false
   },
   "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_2": {
     "criteria": {
@@ -7580,15 +7734,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-06-03 21:18:39 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/combat/silver_chestplate": {
     "criteria": {
       "has_silver_ingot": "2025-06-03 19:47:57 +0000"
     },
     "done": true
   },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2025-06-03 21:23:55 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/combat/silver_boots": {
     "criteria": {
       "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-06-03 20:41:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-03 20:41:04 +0000"
     },
     "done": true
   },
@@ -7604,9 +7782,45 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-06-03 20:51:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-06-03 21:09:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-03 21:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-03 20:50:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-03 20:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-03 21:18:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-03 20:37:12 +0000"
     },
     "done": true
   },

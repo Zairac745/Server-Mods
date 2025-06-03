@@ -765,3 +765,83 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [03Jun2025 20:25:00.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
 [03Jun2025 20:25:00.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
 [03Jun2025 20:25:00.673] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[03Jun2025 20:36:46.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:57629] logged in with entity id 35318 at (2507.699999988079, -52.0, 3808.1542615785324)
+[03Jun2025 20:36:46.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[03Jun2025 20:36:47.197] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[03Jun2025 20:36:47.198] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[03Jun2025 20:37:08.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Crops of the Wild]
+[03Jun2025 20:43:07.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Killed 296 entities]
+[03Jun2025 20:43:25.503] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[03Jun2025 20:43:25.503] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[03Jun2025 20:43:25.504] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[03Jun2025 20:43:25.504] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[03Jun2025 20:46:24.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Applied enchantment Efficiency IV to Zairac74509's item]
+[03Jun2025 20:47:05.218] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot first try, trying again with longer range.
+[03Jun2025 20:47:05.261] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot second try, trying to move slightly towards the center between key biomes.
+[03Jun2025 20:47:05.290] [Server thread/INFO] [twilightforest/]: Did not find a safe portal spot third try, trying to move further towards the center between key biomes.
+[03Jun2025 20:47:05.317] [Server thread/WARN] [twilightforest/]: Still did not find a safe portal spot.
+[03Jun2025 20:47:10.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4864ms or 97 ticks behind
+[03Jun2025 20:47:10.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! 16023.910453650444,-55.92159999847412,29054.231340501985
+[03Jun2025 20:49:38.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Silence of the Forest]
+[03Jun2025 20:52:06.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [With Fire It Writes]
+[03Jun2025 20:52:39.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5469658724546207
+[03Jun2025 20:52:39.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[03Jun2025 20:52:39.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[03Jun2025 20:52:39.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[03Jun2025 20:52:41.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.34580499045569013
+[03Jun2025 20:52:41.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7391764501708167
+[03Jun2025 20:52:41.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9496616752840055
+[03Jun2025 20:52:41.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0622881226190657
+[03Jun2025 20:52:41.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.1225522890590582
+[03Jun2025 20:53:08.992] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/63174, l='ServerLevel[world]', x=2388.50, y=56.00, z=3571.50]
+[03Jun2025 20:54:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [I Can See Forever]
+[03Jun2025 20:54:07.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has completed the challenge [Free Willy]
+[03Jun2025 20:59:17.134] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element twilightforest:naga_courtyard took 9 ms
+[03Jun2025 21:02:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Time To Even The Scales]
+[03Jun2025 21:02:58.959] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/82278, l='ServerLevel[world]', x=3512.11, y=69.00, z=3353.63]
+[03Jun2025 21:03:20.614] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/82278, l='ServerLevel[world]', x=3522.62, y=63.00, z=3264.14]
+[03Jun2025 21:03:58.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved wrongly! 0.31311504089685827
+[03Jun2025 21:05:58.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:06:11.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:06:56.124] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jun2025 21:06:56.124] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[03Jun2025 21:07:56.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Herc was on a Roll!]
+[03Jun2025 21:08:04.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[03Jun2025 21:09:07.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Bring Out Your Dead]
+[03Jun2025 21:11:57.011] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=2319, y=65, z=4164}
+[03Jun2025 21:15:51.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [My Name is Nobody]
+[03Jun2025 21:17:30.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -3.5218450817010307,-3.504166508553574,-9.403784782189177
+[03Jun2025 21:17:30.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -3.9095151256697136,-3.656568569472846,-10.47717933991953
+[03Jun2025 21:17:30.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -4.292237998881319,-3.7730008769026,-11.543311583081959
+[03Jun2025 21:17:30.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -4.66947348409667,-3.8589278324057403,-12.599971126059245
+[03Jun2025 21:17:30.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -5.040878398860514,-3.9197042698472515,-13.645478327285673
+[03Jun2025 21:17:30.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -5.406272299482225,-3.9605311511778254,-14.678604255830578
+[03Jun2025 21:17:30.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.7293169119075174,0.8666922328387656,10.452936057299667
+[03Jun2025 21:17:30.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.7293169119075174,0.8666922328387656,10.452936057299667
+[03Jun2025 21:17:30.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.7293169119075174,0.8666922328387656,10.452936057299667
+[03Jun2025 21:17:30.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.7293169119075174,0.8666922328387656,10.452936057299667
+[03Jun2025 21:17:30.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.7293169119075174,0.8666922328387656,10.452936057299667
+[03Jun2025 21:17:30.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.7293169119075174,0.8666922328387656,10.452936057299667
+[03Jun2025 21:17:30.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.7309503804972337,0.8294211843022907,10.462159704642545
+[03Jun2025 21:17:30.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.7167706855398137,0.6369231967993727,10.452841475678724
+[03Jun2025 21:17:30.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.6985756037174724,0.4829432979029846,10.428936803022225
+[03Jun2025 21:17:30.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 3.678058829933434,0.36025735649924684,10.395604535857274
+[03Jun2025 21:18:59.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:19:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:20:16.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2730ms or 54 ticks behind
+[03Jun2025 21:20:21.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:20:27.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:20:34.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:20:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:20:46.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:21:02.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:22:29.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:22:39.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:22:45.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:23:00.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:23:54.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Naga Scale Leggings] to Zairac74509]
+[03Jun2025 21:23:55.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [Naga Armorer]
+[03Jun2025 21:24:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:24:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:24:59.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [A Terrible Fortress]
+[03Jun2025 21:25:25.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Trophied Champion]

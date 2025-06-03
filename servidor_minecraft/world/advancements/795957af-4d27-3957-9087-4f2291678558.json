@@ -96,6 +96,7 @@
       "minecraft:deep_cold_ocean": "2025-05-31 23:51:55 +0000",
       "minecraft:frozen_ocean": "2025-05-31 23:58:19 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-02 19:35:43 +0000",
+      "minecraft:windswept_forest": "2025-06-03 21:04:38 +0000",
       "minecraft:ocean": "2025-05-31 18:53:58 +0000",
       "minecraft:jungle": "2025-06-02 22:25:29 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-31 19:02:55 +0000",
@@ -850,6 +851,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-31 18:00:48 +0000",
+      "minecraft:blaze": "2025-06-03 21:25:25 +0000",
       "minecraft:skeleton": "2025-05-31 19:06:24 +0000",
       "minecraft:ravager": "2025-05-31 18:02:49 +0000",
       "minecraft:hoglin": "2025-06-01 23:10:48 +0000",
@@ -858,7 +860,9 @@
       "minecraft:evoker": "2025-05-31 18:05:58 +0000",
       "minecraft:phantom": "2025-06-01 03:22:17 +0000",
       "minecraft:witch": "2025-06-03 19:57:20 +0000",
+      "minecraft:wither_skeleton": "2025-06-03 21:25:17 +0000",
       "minecraft:piglin": "2025-06-01 23:12:47 +0000",
+      "minecraft:stray": "2025-06-03 21:14:24 +0000",
       "minecraft:vex": "2025-05-31 18:14:35 +0000",
       "minecraft:zombie": "2025-05-31 17:51:47 +0000",
       "minecraft:drowned": "2025-06-03 19:57:49 +0000",
@@ -3440,7 +3444,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-01 21:31:13 +0000",
-      "minecraft:soul_sand_valley": "2025-06-01 00:57:27 +0000"
+      "minecraft:soul_sand_valley": "2025-06-01 00:57:27 +0000",
+      "minecraft:basalt_deltas": "2025-06-03 21:20:12 +0000"
     },
     "done": false
   },
@@ -6180,9 +6185,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-03 19:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-03 20:45:32 +0000"
     },
     "done": true
   },
@@ -6192,9 +6209,195 @@
     },
     "done": true
   },
+  "celestial_artifacts:recipes/misc/flame_arrow_bag": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-03 20:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-03 20:47:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-03 20:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-03 20:45:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-06-03 20:47:13 +0000"
+    },
+    "done": true
+  },
+  "celestial_artifacts:recipes/misc/evil_eye": {
+    "criteria": {
+      "has_ender_eye": "2025-06-03 20:47:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-06-03 20:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-06-03 20:57:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-03 20:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-03 21:24:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-03 20:45:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-06-03 19:59:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-06-03 20:45:27 +0000"
     },
     "done": true
   },
