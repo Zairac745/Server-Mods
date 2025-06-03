@@ -6289,6 +6289,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 21:40:41 +0000"
+    },
+    "done": true
+  },
   "celestial_artifacts:recipes/misc/evil_eye": {
     "criteria": {
       "has_ender_eye": "2025-06-03 20:47:13 +0000"
@@ -6310,6 +6316,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-06-03 21:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 21:40:41 +0000"
     },
     "done": true
   },
@@ -6397,6 +6409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 21:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-06-03 21:26:20 +0000"
@@ -6412,6 +6430,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-06-03 21:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-03 21:40:41 +0000"
     },
     "done": true
   },

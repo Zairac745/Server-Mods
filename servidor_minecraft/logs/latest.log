@@ -914,3 +914,22 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [03Jun2025 21:35:53.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! -1668.199999988079,-9.0,-2980.3343492883723
 [03Jun2025 21:35:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to 664.500000, 55.000000, 1144.500000]
 [03Jun2025 21:35:53.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -1667.2803035747584,-9.0,-2982.2930760467216
+[03Jun2025 21:37:20.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 660.500000, -56.000000, 1140.500000]
+[03Jun2025 21:37:20.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 11.4703810748141,-119.0,-2.8470736737476727
+[03Jun2025 21:37:21.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Voluntary Exile]
+[03Jun2025 21:37:59.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Voluntary Exile]
+[03Jun2025 21:38:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 658.500000, -7.000000, 1144.500000]
+[03Jun2025 21:38:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 678.500000, -55.000000, 1152.500000]
+[03Jun2025 21:38:12.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 16.828173291013627,-48.0,6.218983668554756
+[03Jun2025 21:38:27.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 658.500000, -7.000000, 1144.500000]
+[03Jun2025 21:38:27.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -20.81571523764933,48.125,-11.686696478723206
+[03Jun2025 21:38:30.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 679.500000, -56.000000, 1156.500000]
+[03Jun2025 21:38:30.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 21.962210267353157,-49.0,11.904462763382753
+[03Jun2025 21:38:34.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 658.500000, -7.000000, 1144.500000]
+[03Jun2025 21:38:34.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -21.881830890168885,48.0,-8.055828399354368
+[03Jun2025 21:38:48.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 680.500000, -55.000000, 1152.500000]
+[03Jun2025 21:38:49.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 22.975413860346634,-48.0,7.906585376009616
+[03Jun2025 21:38:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 648.500000, 63.000000, 1143.500000]
+[03Jun2025 21:38:55.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -12.765056558282822,118.125,5.802894611861802
+[03Jun2025 21:45:36.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 2332.500000, 64.000000, 4126.500000]
+[03Jun2025 21:45:37.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 1670.0971643442483,9.0,2981.249859916984

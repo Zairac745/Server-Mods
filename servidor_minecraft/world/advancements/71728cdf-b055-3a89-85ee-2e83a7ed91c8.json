@@ -975,12 +975,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-03 21:37:21 +0000",
       "minecraft:skeleton": "2025-05-31 18:51:25 +0000",
       "minecraft:hoglin": "2025-06-01 23:18:01 +0000",
       "minecraft:spider": "2025-05-31 17:46:40 +0000",
       "minecraft:creeper": "2025-06-03 20:18:52 +0000",
       "minecraft:slime": "2025-06-02 19:57:54 +0000",
       "minecraft:phantom": "2025-06-01 03:22:29 +0000",
+      "minecraft:witch": "2025-06-03 21:39:35 +0000",
       "minecraft:piglin": "2025-06-01 23:10:53 +0000",
       "minecraft:enderman": "2025-06-01 05:12:30 +0000",
       "minecraft:stray": "2025-06-02 19:18:34 +0000",
@@ -7555,6 +7557,12 @@
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-03 20:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-03 21:37:21 +0000"
     },
     "done": true
   },
