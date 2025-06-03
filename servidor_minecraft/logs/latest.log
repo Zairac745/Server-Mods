@@ -749,3 +749,19 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [03Jun2025 20:12:38.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 672.500000, -55.000000, 665.500000]
 [03Jun2025 20:12:38.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 14.848807836112542,-48.0,0.19699463879999257
 [03Jun2025 20:13:17.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 2331.500000, 64.000000, 4127.500000]
+[03Jun2025 20:14:52.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved wrongly!
+[03Jun2025 20:18:49.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.38370835016667115
+[03Jun2025 20:18:49.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9930076903247027
+[03Jun2025 20:18:49.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.7272348025298925
+[03Jun2025 20:18:49.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5288183740540262
+[03Jun2025 20:18:49.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.3677013905662534
+[03Jun2025 20:20:08.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Alex's Caves]
+[03Jun2025 20:20:11.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2517143107843367
+[03Jun2025 20:20:11.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.638115930627464
+[03Jun2025 20:20:11.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2506021912963661
+[03Jun2025 20:20:11.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6061701228145466
+[03Jun2025 20:20:12.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9996368048311935
+[03Jun2025 20:20:12.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.3416292007036645
+[03Jun2025 20:25:00.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[03Jun2025 20:25:00.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[03Jun2025 20:25:00.673] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
