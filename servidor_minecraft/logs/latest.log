@@ -845,3 +845,72 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [03Jun2025 21:24:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
 [03Jun2025 21:24:59.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [A Terrible Fortress]
 [03Jun2025 21:25:25.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Trophied Champion]
+[03Jun2025 21:30:58.425] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[03Jun2025 21:30:58.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[03Jun2025 21:30:58.426] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[03Jun2025 21:32:17.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hachiko2357[/127.70.50.114:59237] logged in with entity id 175232 at (2307.322376147809, 68.0, 4159.305742501443)
+[03Jun2025 21:32:17.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 joined the game
+[03Jun2025 21:32:19.884] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Hachiko2357 (18)
+[03Jun2025 21:32:19.884] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Hachiko2357
+[03Jun2025 21:32:58.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! -9.50807091417164,-0.49520087700592086,-3.611665037680723
+[03Jun2025 21:33:40.917] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/175981, l='ServerLevel[world]', x=3531.37, y=69.00, z=2325.09]
+[03Jun2025 21:34:15.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to camilxdk1]
+[03Jun2025 21:34:24.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to Hachiko2357]
+[03Jun2025 21:35:48.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 664.500000, 55.000000, 1144.500000]
+[03Jun2025 21:35:49.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -1668.0895421118944,-9.0,-2981.6346094074142
+[03Jun2025 21:35:50.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=626, y=55, z=1144} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=626, y=55, z=1144}
+[03Jun2025 21:35:50.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=629, y=54, z=1141} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=629, y=54, z=1141}
+[03Jun2025 21:35:50.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=629, y=54, z=1146} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=629, y=54, z=1146}
+[03Jun2025 21:35:50.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=631, y=54, z=1144} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=631, y=54, z=1144}
+[03Jun2025 21:35:50.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=634, y=54, z=1141} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=634, y=54, z=1141}
+[03Jun2025 21:35:50.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=634, y=54, z=1146} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=634, y=54, z=1146}
+[03Jun2025 21:35:50.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=685, y=55, z=1100} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=685, y=55, z=1100}
+[03Jun2025 21:35:50.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=679, y=55, z=1091} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=679, y=55, z=1091}
+[03Jun2025 21:35:50.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=679, y=57, z=1095} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=679, y=57, z=1095}
+[03Jun2025 21:35:50.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=681, y=57, z=1094} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=681, y=57, z=1094}
+[03Jun2025 21:35:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=680, y=57, z=1097} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=680, y=57, z=1097}
+[03Jun2025 21:35:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=679, y=55, z=1100} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=679, y=55, z=1100}
+[03Jun2025 21:35:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=684, y=55, z=1095} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=684, y=55, z=1095}
+[03Jun2025 21:35:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=674, y=55, z=1090} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.779] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=674, y=55, z=1090}
+[03Jun2025 21:35:50.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=693, y=54, z=1093} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=693, y=54, z=1093}
+[03Jun2025 21:35:50.813] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=698, y=54, z=1093} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=698, y=54, z=1093}
+[03Jun2025 21:35:50.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=696, y=54, z=1095} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=696, y=54, z=1095}
+[03Jun2025 21:35:50.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=693, y=54, z=1098} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=693, y=54, z=1098}
+[03Jun2025 21:35:50.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=701, y=55, z=1095} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=701, y=55, z=1095}
+[03Jun2025 21:35:50.815] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=698, y=54, z=1098} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.815] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=698, y=54, z=1098}
+[03Jun2025 21:35:50.831] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=658, y=55, z=1096} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.831] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=658, y=55, z=1096}
+[03Jun2025 21:35:50.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=661, y=54, z=1093} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=661, y=54, z=1093}
+[03Jun2025 21:35:50.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=661, y=54, z=1098} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=661, y=54, z=1098}
+[03Jun2025 21:35:50.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=663, y=54, z=1096} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=663, y=54, z=1096}
+[03Jun2025 21:35:50.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=666, y=54, z=1093} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=666, y=54, z=1093}
+[03Jun2025 21:35:50.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=666, y=54, z=1098} but found not block entity block Block{minecraft:air} at location
+[03Jun2025 21:35:50.833] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=666, y=54, z=1098}
+[03Jun2025 21:35:52.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hachiko2357: Teleported Hachiko2357 to 664.500000, 55.000000, 1144.500000]
+[03Jun2025 21:35:53.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 moved too quickly! -1668.199999988079,-9.0,-2980.3343492883723
+[03Jun2025 21:35:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to 664.500000, 55.000000, 1144.500000]
+[03Jun2025 21:35:53.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! -1667.2803035747584,-9.0,-2982.2930760467216
