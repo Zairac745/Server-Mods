@@ -11947,3 +11947,33 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [03Jun2025 21:45:30.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Jun2025 21:45:36.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [camilxdk1: Teleported camilxdk1 to 2332.500000, 64.000000, 4126.500000]
 [03Jun2025 21:45:37.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 1670.0971643442483,9.0,2981.249859916984
+[03Jun2025 21:48:26.186] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 72.872s
+[03Jun2025 21:48:37.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Eye Spy]
+[03Jun2025 21:48:55.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported Zairac74509 to camilxdk1]
+[03Jun2025 21:48:56.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Eye Spy]
+[03Jun2025 21:49:04.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The End?]
+[03Jun2025 21:49:06.480] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[03Jun2025 21:49:06.483] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[03Jun2025 21:49:07.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Teleported 3 entities to Zairac74509]
+[03Jun2025 21:49:07.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
+[03Jun2025 21:49:07.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The End?]
+[03Jun2025 21:49:07.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Eye Spy]
+[03Jun2025 21:49:10.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [The End?]
+[03Jun2025 21:49:16.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:49:23.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:50:28.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[03Jun2025 21:50:28.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[03Jun2025 21:50:28.600] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of camilxdk1
+[03Jun2025 21:50:28.600] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[03Jun2025 21:50:33.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 21:50:33.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 21:50:53.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hachiko2357 lost connection: Disconnected
+[03Jun2025 21:50:53.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
+[03Jun2025 21:50:53.747] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Hachiko2357
+[03Jun2025 21:50:53.747] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[03Jun2025 21:55:33.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 21:55:33.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 21:55:52.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:55:57.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 21:56:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[03Jun2025 21:56:17.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]

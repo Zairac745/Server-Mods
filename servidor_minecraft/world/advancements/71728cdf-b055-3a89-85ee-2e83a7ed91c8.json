@@ -7523,6 +7523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-03 21:51:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-06-03 20:03:17 +0000"
@@ -7627,6 +7633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-03 21:51:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2025-06-03 21:02:10 +0000"
@@ -7642,6 +7654,12 @@
   "minecraft:recipes/misc/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-03 21:48:56 +0000"
     },
     "done": true
   },
@@ -7684,6 +7702,12 @@
   "minecraft:recipes/misc/silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-03 21:49:07 +0000"
     },
     "done": true
   },
@@ -7739,6 +7763,12 @@
   "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-06-03 20:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-03 21:51:26 +0000"
     },
     "done": true
   },
@@ -7808,6 +7838,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-03 21:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-03 20:50:04 +0000"
@@ -7829,6 +7865,18 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-06-03 20:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-03 21:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-03 21:51:26 +0000"
     },
     "done": true
   },

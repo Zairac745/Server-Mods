@@ -863,6 +863,7 @@
       "minecraft:witch": "2025-06-03 19:57:20 +0000",
       "minecraft:wither_skeleton": "2025-06-03 21:25:17 +0000",
       "minecraft:piglin": "2025-06-01 23:12:47 +0000",
+      "minecraft:silverfish": "2025-06-03 21:48:48 +0000",
       "minecraft:stray": "2025-06-03 21:14:24 +0000",
       "minecraft:vex": "2025-05-31 18:14:35 +0000",
       "minecraft:zombie": "2025-05-31 17:51:47 +0000",
@@ -6319,6 +6320,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-06-03 21:48:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-06-03 21:40:41 +0000"
@@ -6358,6 +6365,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-06-03 21:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-03 21:49:04 +0000"
     },
     "done": true
   },
@@ -6454,6 +6467,12 @@
   "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-03 21:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-03 21:49:04 +0000"
     },
     "done": true
   },
