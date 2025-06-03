@@ -857,9 +857,11 @@
       "minecraft:spider": "2025-05-31 18:05:01 +0000",
       "minecraft:evoker": "2025-05-31 18:05:58 +0000",
       "minecraft:phantom": "2025-06-01 03:22:17 +0000",
+      "minecraft:witch": "2025-06-03 19:57:20 +0000",
       "minecraft:piglin": "2025-06-01 23:12:47 +0000",
       "minecraft:vex": "2025-05-31 18:14:35 +0000",
       "minecraft:zombie": "2025-05-31 17:51:47 +0000",
+      "minecraft:drowned": "2025-06-03 19:57:49 +0000",
       "minecraft:zombie_villager": "2025-06-01 00:06:42 +0000"
     },
     "done": false
@@ -6175,6 +6177,24 @@
   "alexscaves:alexscaves/ride_submarine": {
     "criteria": {
       "ride_a_boat_with_a_goat": "2025-06-03 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 19:59:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-03 19:59:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-03 19:59:37 +0000"
     },
     "done": true
   },
