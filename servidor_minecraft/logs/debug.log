@@ -10701,3 +10701,12 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [03Jun2025 20:25:00.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 left the game
 [03Jun2025 20:25:00.673] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Hachiko2357
 [03Jun2025 20:25:00.673] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Hachiko2357
+[03Jun2025 20:25:21.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 20:25:21.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 20:28:51.233] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=2354, y=-15, z=4965}
+[03Jun2025 20:29:40.415] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03Jun2025 20:29:47.672] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03Jun2025 20:30:21.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jun2025 20:30:21.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jun2025 20:34:17.967] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[03Jun2025 20:34:35.517] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
