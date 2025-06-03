@@ -977,12 +977,15 @@
     "criteria": {
       "minecraft:pillager": "2025-06-03 21:37:21 +0000",
       "minecraft:skeleton": "2025-05-31 18:51:25 +0000",
+      "minecraft:ravager": "2025-06-03 22:04:33 +0000",
       "minecraft:hoglin": "2025-06-01 23:18:01 +0000",
+      "minecraft:vindicator": "2025-06-03 22:03:51 +0000",
       "minecraft:spider": "2025-05-31 17:46:40 +0000",
       "minecraft:creeper": "2025-06-03 20:18:52 +0000",
       "minecraft:slime": "2025-06-02 19:57:54 +0000",
       "minecraft:phantom": "2025-06-01 03:22:29 +0000",
       "minecraft:witch": "2025-06-03 21:39:35 +0000",
+      "minecraft:ender_dragon": "2025-06-03 21:59:59 +0000",
       "minecraft:piglin": "2025-06-01 23:10:53 +0000",
       "minecraft:enderman": "2025-06-01 05:12:30 +0000",
       "minecraft:stray": "2025-06-02 19:18:34 +0000",
@@ -7511,6 +7514,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-06-03 22:00:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-06-03 21:18:40 +0000"
@@ -7724,6 +7733,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-06-03 21:59:59 +0000"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "raven": "2025-06-03 20:49:38 +0000"
@@ -7793,6 +7808,12 @@
   "werewolves:recipes/combat/silver_boots": {
     "criteria": {
       "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-03 22:05:01 +0000"
     },
     "done": true
   },
