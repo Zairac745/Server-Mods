@@ -7499,5 +7499,53 @@
     },
     "done": true
   },
+  "werewolves:recipes/combat/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_2": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_1": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:47:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

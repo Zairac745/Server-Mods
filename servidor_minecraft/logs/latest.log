@@ -601,3 +601,20 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [03Jun2025 19:36:24.608] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
 [03Jun2025 19:38:21.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
 [03Jun2025 19:38:24.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[03Jun2025 19:45:38.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[03Jun2025 19:45:38.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[03Jun2025 19:45:38.710] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client camilxdk1
+[03Jun2025 19:45:38.753] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jun2025 19:46:35.708] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@289cada2[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:60413) lost connection: Disconnected
+[03Jun2025 19:48:54.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/717, l='ServerLevel[world]', x=2318.70, y=64.00, z=4217.64] died, message: 'Villager was slain by Zairac74509'
+[03Jun2025 19:49:43.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hachiko2357 has made the advancement [Funny Cuts of Children]
+[03Jun2025 19:50:00.252] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@564c2bf7[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:34551) lost connection: Disconnected
+[03Jun2025 19:50:12.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49310a22[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:39181) lost connection: Disconnected
+[03Jun2025 19:50:29.152] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d24f31b[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:41141) lost connection: Disconnected
+[03Jun2025 19:50:43.402] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f0f2ee8[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:57917) lost connection: Disconnected
+[03Jun2025 19:51:11.000] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24edf64c[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:56919) lost connection: Disconnected
+[03Jun2025 19:51:26.854] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e1df76d[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.145.153.131:51313) lost connection: Disconnected
+[03Jun2025 19:52:00.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.145.153.131:43647] logged in with entity id 7530 at (2317.4698054394307, 63.0, 4160.964567017476)
+[03Jun2025 19:52:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[03Jun2025 19:52:02.757] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of camilxdk1 (18)
+[03Jun2025 19:52:02.758] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to camilxdk1

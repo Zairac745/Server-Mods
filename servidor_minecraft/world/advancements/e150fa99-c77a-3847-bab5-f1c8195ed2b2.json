@@ -6066,9 +6066,63 @@
     },
     "done": true
   },
+  "vampiresdelight:recipes/food/eyes_on_stick": {
+    "criteria": {
+      "has_human_eye": "2025-06-03 19:49:43 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:49:44 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-06-03 19:36:09 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:49:44 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:main/get_human_eye": {
+    "criteria": {
+      "human_eye": "2025-06-03 19:49:43 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/food/eye_croissant": {
+    "criteria": {
+      "has_human_eye": "2025-06-03 19:49:43 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:49:44 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/combat/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-06-03 19:49:44 +0000"
     },
     "done": true
   },
