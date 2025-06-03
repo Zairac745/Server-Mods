@@ -7763,6 +7763,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-03 22:05:58 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/alchemy_table/alchemy_table/silver_oil_2": {
     "criteria": {
       "has_silver_ingot": "2025-06-03 19:47:57 +0000"
