@@ -83,6 +83,7 @@
       "minecraft:savanna_plateau": "2025-06-04 01:17:51 +0000",
       "minecraft:beach": "2025-05-31 23:40:48 +0000",
       "minecraft:dark_forest": "2025-06-01 02:27:33 +0000",
+      "minecraft:mangrove_swamp": "2025-06-04 02:02:03 +0000",
       "minecraft:sparse_jungle": "2025-06-02 22:25:41 +0000",
       "minecraft:river": "2025-05-31 18:21:51 +0000",
       "minecraft:lukewarm_ocean": "2025-06-01 03:18:41 +0000",
@@ -104,6 +105,8 @@
       "minecraft:old_growth_spruce_taiga": "2025-05-31 23:25:46 +0000",
       "minecraft:snowy_beach": "2025-06-01 00:09:16 +0000",
       "minecraft:windswept_savanna": "2025-06-01 02:19:14 +0000",
+      "minecraft:warm_ocean": "2025-06-04 01:58:33 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-04 01:58:44 +0000",
       "minecraft:flower_forest": "2025-05-31 18:00:01 +0000",
       "minecraft:frozen_peaks": "2025-06-01 03:18:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-01 02:26:06 +0000",
@@ -7908,132 +7911,6 @@
     },
     "done": true
   },
-  "vampiresdelight:recipes/building_blocks/dye_green_bar_stool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/green_industrial_lamp": {
-    "criteria": {
-      "has_green_industrial_lamp": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_axe": {
-    "criteria": {
-      "has_item": "2025-06-04 01:26:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_boots": {
-    "criteria": {
-      "has_item": "2025-06-04 01:26:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_candle": {
-    "criteria": {
-      "has_green_dye": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_green_dye": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/myrmex_resin_jungle": {
-    "criteria": {
-      "has_item": "2025-06-04 01:26:34 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-06-04 01:37:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
-    "criteria": {
-      "has_item": "2025-06-04 01:26:45 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_green_industrial_lamp": {
-    "criteria": {
-      "has_small_green_industrial_lamp": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
-    "criteria": {
-      "has_item": "2025-06-04 01:26:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/coffin_green_from_white": {
-    "criteria": {
-      "has_dye": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_myrmex": {
-    "criteria": {
-      "chitin": "2025-06-04 01:26:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
-    "criteria": {
-      "has_item": "2025-06-04 01:26:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-04 01:26:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_green_dye": "2025-06-04 01:24:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_jungle_sword": {
-    "criteria": {
-      "has_item": "2025-06-04 01:26:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
-    "criteria": {
-      "has_item": "2025-06-04 01:26:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-06-04 01:23:39 +0000"
@@ -8052,9 +7929,141 @@
     },
     "done": true
   },
+  "vampiresdelight:recipes/building_blocks/dye_green_bar_stool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/green_industrial_lamp": {
+    "criteria": {
+      "has_green_industrial_lamp": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_green_industrial_lamp": {
+    "criteria": {
+      "has_small_green_industrial_lamp": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_green_from_white": {
+    "criteria": {
+      "has_dye": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-06-04 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-06-04 01:26:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_jungle_hoe": {
     "criteria": {
       "has_item": "2025-06-04 01:26:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-06-04 01:37:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-06-04 01:43:20 +0000"
     },
     "done": true
   },

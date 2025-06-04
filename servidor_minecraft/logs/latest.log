@@ -601,3 +601,135 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [04Jun2025 01:26:45.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Only Good Bug...]
 [04Jun2025 01:37:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Lorem Ipsum]
 [04Jun2025 01:40:30.200] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 10870 -56 -4927 in 2s
+[04Jun2025 01:46:54.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[04Jun2025 01:46:54.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[04Jun2025 01:46:54.016] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[04Jun2025 01:47:02.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:54101] logged in with entity id 18015 at (3428.3292891527044, 115.0, 4568.167285304903)
+[04Jun2025 01:47:02.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[04Jun2025 01:47:03.800] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[04Jun2025 01:47:03.801] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[04Jun2025 01:48:04.402] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jun2025 01:48:04.405] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jun2025 01:48:12.527] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jun2025 01:48:27.674] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[04Jun2025 01:48:27.687] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[04Jun2025 01:48:27.687] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[04Jun2025 01:48:27.688] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[04Jun2025 01:48:27.688] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[04Jun2025 01:48:28.858] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[04Jun2025 01:48:28.868] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[04Jun2025 01:50:25.087] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[04Jun2025 01:50:27.851] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[04Jun2025 01:56:26.276] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[04Jun2025 01:56:26.277] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[04Jun2025 01:56:26.277] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[04Jun2025 01:56:26.278] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[04Jun2025 01:56:26.374] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[04Jun2025 01:58:19.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -0.6897743597419321,-6.759469104643358,-7.5271498113647795
+[04Jun2025 01:58:19.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -0.8283985279049375,-7.472226257348609,-8.06783199168467
+[04Jun2025 01:58:19.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -0.9834233733217843,-8.208431247223075,-8.59354762548719
+[04Jun2025 01:58:19.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.1555552645368152,-8.966920952183784,-9.104518291185741
+[04Jun2025 01:58:19.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.345661470633786,-9.746609760720673,-9.600798202116039
+[04Jun2025 01:58:19.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.554755802897489,-10.546432227082562,-10.082308771890439
+[04Jun2025 01:58:19.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.7839831128039805,-11.365298806307408,-10.548866691817693
+[04Jun2025 01:58:19.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -2.0346005010287627,-12.202062811097676,-11.000204622556566
+[04Jun2025 01:58:19.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -2.307954909521868,-13.055496818357994,-11.435984253412016
+[04Jun2025 01:58:19.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -2.6054568042873143,-13.924277293092132,-11.855801701236942
+[04Jun2025 01:58:19.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -2.928550667960735,-14.806976976848716,-12.259183908834757
+[04Jun2025 01:58:19.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -3.2786826704741543,-15.702063304334786,-12.645577962139896
+[04Jun2025 01:58:19.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -3.6572653448783967,-16.60790181558309,-13.014335416072072
+[04Jun2025 01:58:19.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -4.065638816471619,-17.522763217694887,-13.364696245355844
+[04Jun2025 01:58:19.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -3.8142304146458628,-11.811194451038773,-6.1016803091772545
+[04Jun2025 01:58:19.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -4.087467761801236,-12.132935972899134,-5.837347055240116
+[04Jun2025 01:58:19.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -3.268484006081053,-10.365501584245067,-4.262357201879922
+[04Jun2025 01:58:19.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -2.4427122966299066,-9.093128908830636,-3.5117800333362084
+[04Jun2025 01:58:37.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 7.119459875724715,-8.991446007103491,0.6070688032359612
+[04Jun2025 01:58:37.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 8.606639923596958,-10.806108252138301,0.6042011272247692
+[04Jun2025 01:58:37.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 10.131919606548763,-12.607703806349406,0.5432566316046632
+[04Jun2025 01:58:37.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 11.692957798317366,-14.394912108969237,0.4218244875041819
+[04Jun2025 01:58:37.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 13.288288006897346,-16.165378212655412,0.23680236687505385
+[04Jun2025 01:58:37.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 14.917017428251711,-17.915749017898406,-0.015542893886504316
+[04Jun2025 01:58:37.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 16.57792458197946,-19.64252789430384,-0.3384139509309989
+[04Jun2025 01:58:37.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 18.269465104713163,-21.34212477057747,-0.7345024407779874
+[04Jun2025 01:58:37.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 19.98979142729877,-23.01089741464031,-1.2060032791068807
+[04Jun2025 01:58:37.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 21.736782188274447,-24.645185450191406,-1.754626120218063
+[04Jun2025 01:58:37.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 23.508076296628133,-26.241339367692234,-2.381608038499053
+[04Jun2025 01:58:37.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 25.3011091744811,-27.79574571296041,-3.087726791200339
+[04Jun2025 01:58:37.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 27.11324852681537,-29.304743965449006,-3.87328451937492
+[04Jun2025 01:58:37.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 28.94189279377133,-30.764569962241666,-4.738092864578675
+[04Jun2025 01:58:37.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 30.784543013898656,-32.17132168267963,-5.6814552752016425
+[04Jun2025 01:58:37.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 32.638854560753316,-33.52094740595527,-6.702143870969849
+[04Jun2025 01:58:37.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 34.50267435611386,-34.809255218164395,-7.798371528876032
+[04Jun2025 01:58:37.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 36.373905224956616,-36.03210726826791,-8.967853542908188
+[04Jun2025 01:58:37.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 38.25041920914191,-37.18555647543076,-10.207881176364026
+[04Jun2025 01:58:37.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 40.12999945656702,-38.265943110086624,-11.515402840907427
+[04Jun2025 01:58:37.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 42.01029993058364,-39.26996223261136,-12.887107602976357
+[04Jun2025 01:58:37.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 43.88881521740768,-40.19471289258428,-14.319506909642314
+[04Jun2025 01:58:37.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 45.76292954046767,-41.037662078031644,-15.808960898935766
+[04Jun2025 01:58:37.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 47.62995431224954,-41.796618258576444,-17.35170034018961
+[04Jun2025 01:58:37.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 49.48715604944118,-42.46971180160807,-18.943847148146915
+[04Jun2025 01:58:37.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 51.331777530826,-43.05538068909317,-20.581433263716917
+[04Jun2025 01:58:37.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 53.16105564841018,-43.55235983535712,-22.26041667799518
+[04Jun2025 01:58:37.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 54.972236477116894,-43.959672787070986,-23.976696070636763
+[04Jun2025 01:58:37.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 56.76258739842888,-44.27662550410875,-25.726125368726798
+[04Jun2025 01:58:37.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 58.52940917090382,-44.5028011087432,-27.50452623673914
+[04Jun2025 01:58:37.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 60.270045981500516,-44.63805534847205,-29.307701182415485
+[04Jun2025 01:58:37.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 61.98189649468986,-44.682512344489936,-31.131444695981827
+[04Jun2025 01:58:38.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 63.66242365562903,-44.63656039817229,-32.97155500846725
+[04Jun2025 01:58:38.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 65.30916370526575,-44.500847499765314,-34.82384610214717
+[04Jun2025 01:58:38.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 66.91973536779187,-44.27627647646932,-36.684159161872685
+[04Jun2025 01:58:38.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 68.49184969916496,-43.96399969459739,-38.54837317744909
+[04Jun2025 01:58:38.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 70.02331806964139,-43.56541317438396,-40.41241690318702
+[04Jun2025 01:58:38.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 71.51206068706051,-43.08214995582682,-42.27227999102115
+[04Jun2025 01:58:38.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 72.95611513169752,-42.51607281338329,-44.124023800486384
+[04Jun2025 01:58:38.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 74.35364339276566,-41.8692663402943,-45.96379305549863
+[04Jun2025 01:58:38.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 75.70294031936282,-41.14402822752527,-47.78782596134056
+[04Jun2025 01:58:38.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 77.00243953639438,-40.342859786196556,-49.59246578903776
+[04Jun2025 01:58:38.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 78.2507198651092,-39.46845600833558,-51.37417163210557
+[04Jun2025 01:58:38.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 79.44651167169832,-38.52369473346633,-53.12952862161114
+[04Jun2025 01:58:38.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 80.58870223233134,-37.51162506049167,-54.85525821968713
+[04Jun2025 01:58:38.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 81.67634078229457,-36.43545545193081,-56.548228319117925
+[04Jun2025 01:58:38.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 82.70864191207329,-35.29854115795919,-58.20546380019118
+[04Jun2025 01:58:38.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 83.68499016370697,-34.10437103433509,-59.82415568498277
+[04Jun2025 01:58:38.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 84.60494322910381,-32.85655383611072,-61.40167063222066
+[04Jun2025 01:58:38.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 85.46823446881899,-31.558804120386185,-62.93556036230348
+[04Jun2025 01:58:38.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 86.27477509831442,-30.214928095206886,-64.42357114442916
+[04Jun2025 01:58:38.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2712ms or 54 ticks behind
+[04Jun2025 01:58:38.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 79.93162068113816,-19.82684796074716,-66.26534999155137
+[04Jun2025 01:58:38.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 79.18602455401924,-16.590824738863688,-67.25109067913627
+[04Jun2025 01:58:38.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! 78.42850986512349,-13.329777855197818,-68.01177217913323
+[04Jun2025 01:58:38.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -8.304553760141062,12.81581937889959,1.3210167462557365
+[04Jun2025 01:58:38.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -7.164533934992505,12.895988825294864,2.010733986355035
+[04Jun2025 01:58:38.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -5.951095855039966,11.118398656079165,1.1118654983370106
+[04Jun2025 01:58:38.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -5.244557690311922,13.05427993428745,3.263881233318898
+[04Jun2025 01:58:38.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -4.0265916932112304,11.23955484335562,2.359940422249565
+[04Jun2025 01:58:38.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -3.191439902446291,11.255856701088277,2.9284641205156277
+[04Jun2025 01:58:38.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -2.4037735505680757,11.272046412766741,3.3835705063995647
+[04Jun2025 01:58:38.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.8895602854117897,13.016426137283446,5.298828024711156
+[04Jun2025 01:58:38.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.6534926091662783,12.637889598098468,10.763806332756985
+[04Jun2025 01:58:38.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.5612721375491674,10.755042108374823,9.207869477864278
+[04Jun2025 01:58:38.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -1.5612721375491674,10.755042108374823,9.207869477864278
+[04Jun2025 01:58:42.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:42.403] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:42.509] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:42.617] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:42.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:42.828] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:42.927] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.301] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.603] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.730] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.802] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:58:43.916] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jun2025 01:59:55.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Removed every effect from Zairac74509]
+[04Jun2025 02:00:55.304] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jun2025 02:00:55.304] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jun2025 02:01:13.825] [Worker-Main-19/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[04Jun2025 02:05:05.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Pic-A-Nic Basket?]
+[04Jun2025 02:05:13.757] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: regenerating cave biome map, incorrect biome minecraft:forest found at 10870 -56 -4927, should be alexscaves:toxic_caves
+[04Jun2025 02:05:14.515] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 10513 -56 -4477 in 0s
