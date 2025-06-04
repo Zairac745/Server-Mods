@@ -8115,5 +8115,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-06-04 18:49:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-06-04 18:48:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
