@@ -626,3 +626,69 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [04Jun2025 19:16:53.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Folly of Man]
 [04Jun2025 19:18:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [King of Monsters]
 [04Jun2025 19:18:50.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Killed 955 entities]
+[04Jun2025 19:40:16.556] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jun2025 19:40:16.574] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04Jun2025 19:40:18.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.06942489438552
+[04Jun2025 19:40:18.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 2.1430287283401412
+[04Jun2025 19:40:18.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 3.2198744622764934
+[04Jun2025 19:40:19.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 4.299149469384247
+[04Jun2025 19:40:19.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 5.379536433681096
+[04Jun2025 19:40:19.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 5.612337493093946
+[04Jun2025 19:40:19.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.41436046053422615
+[04Jun2025 19:40:19.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.5552216418354874
+[04Jun2025 19:40:19.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.217117204510032
+[04Jun2025 19:40:19.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.7388093463496261
+[04Jun2025 19:40:19.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.7782731805255025
+[04Jun2025 19:40:19.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.7671516142097762
+[04Jun2025 19:40:19.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.5746860177841295
+[04Jun2025 19:40:19.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.6829198695102237
+[04Jun2025 19:40:19.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.6617086538050174
+[04Jun2025 19:40:19.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.5301630544244582
+[04Jun2025 19:40:19.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.6332817174536309
+[04Jun2025 19:40:19.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.5159684106560156
+[04Jun2025 19:40:19.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.5859685823752443
+[04Jun2025 19:40:19.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.5441695519402856
+[04Jun2025 19:40:19.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.5104279729425798
+[04Jun2025 19:40:19.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.48397457500823293
+[04Jun2025 19:40:19.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.4632351110278705
+[04Jun2025 19:41:52.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [My Name is Nobody]
+[04Jun2025 19:42:15.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.4715577426040909
+[04Jun2025 19:42:15.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.29606055849762924
+[04Jun2025 19:44:19.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.33012429442731983
+[04Jun2025 19:44:19.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.5403772583482517
+[04Jun2025 19:44:19.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.6827626572739791
+[04Jun2025 19:44:19.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.046544613995985
+[04Jun2025 19:44:19.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.35959147717949236
+[04Jun2025 19:44:19.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.7891679274167552
+[04Jun2025 19:44:19.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.46533510413064505
+[04Jun2025 19:44:19.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.498617905129322
+[04Jun2025 19:44:19.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.5164268683561204
+[04Jun2025 19:44:19.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.0565297961015858
+[04Jun2025 19:44:19.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.5310979553264588
+[04Jun2025 19:44:19.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.0793074613598037
+[04Jun2025 19:44:20.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.4889806783835411
+[04Jun2025 19:44:20.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.40298234369720376
+[04Jun2025 19:44:37.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.4688757259718841
+[04Jun2025 19:44:37.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.3076011571529307
+[04Jun2025 19:44:37.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.9432801512293736
+[04Jun2025 19:44:37.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 2.470313045120747
+[04Jun2025 19:44:37.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 2.9392115769724114
+[04Jun2025 19:44:37.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 3.3770035707702846
+[04Jun2025 19:45:33.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.37636316499447275
+[04Jun2025 19:45:33.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.809865626797091
+[04Jun2025 19:45:33.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.0199625749746701
+[04Jun2025 19:45:33.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.112887348689128
+[04Jun2025 19:45:33.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.1471012375081955
+[04Jun2025 19:46:30.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.3240457140027502
+[04Jun2025 19:46:30.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.4265007727944976
+[04Jun2025 19:46:30.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.8063385623781869
+[04Jun2025 19:46:33.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.4737613985985263
+[04Jun2025 19:46:33.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.5529766696836305
+[04Jun2025 19:46:33.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.7108475258346516
+[04Jun2025 19:46:33.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.956558784524077
+[04Jun2025 19:46:34.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.0283588027812574
+[04Jun2025 19:46:34.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.4339706144992306
+[04Jun2025 19:46:34.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.1430620812403502
+[04Jun2025 19:46:34.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.7870444305797504
+[04Jun2025 19:47:00.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
+[04Jun2025 19:47:21.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
