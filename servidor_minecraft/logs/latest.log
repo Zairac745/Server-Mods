@@ -599,3 +599,5 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [04Jun2025 01:21:48.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -10.33924324816428,2.2004058808560103,0.7845858354708071
 [04Jun2025 01:21:48.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of Zairac74509) moved too quickly! -10.33924324816428,2.2004058808560103,0.7845858354708071
 [04Jun2025 01:26:45.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Only Good Bug...]
+[04Jun2025 01:37:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Lorem Ipsum]
+[04Jun2025 01:40:30.200] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 10870 -56 -4927 in 2s

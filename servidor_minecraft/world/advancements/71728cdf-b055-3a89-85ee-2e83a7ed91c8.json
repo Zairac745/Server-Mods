@@ -7950,6 +7950,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-06-04 01:37:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_jungle_helmet": {
     "criteria": {
       "has_item": "2025-06-04 01:26:45 +0000"

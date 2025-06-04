@@ -8801,3 +8801,13 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [04Jun2025 01:33:43.156] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=18311, y=6, z=33208}
 [04Jun2025 01:33:46.102] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=18311, y=6, z=33208}
 [04Jun2025 01:33:46.500] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=18311, y=6, z=33208}
+[04Jun2025 01:37:21.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 01:37:21.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 01:37:38.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Lorem Ipsum]
+[04Jun2025 01:40:30.200] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 10870 -56 -4927 in 2s
+[04Jun2025 01:42:21.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 01:42:21.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 01:45:36.709] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity alexsmobs:gelada_monkey
+[04Jun2025 01:45:36.709] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.73 and blood value 12 for entity alexsmobs:gelada_monkey
+[04Jun2025 01:45:42.817] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[04Jun2025 01:45:46.072] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.87 and blood value 13 for entity alexsmobs:snow_leopard
