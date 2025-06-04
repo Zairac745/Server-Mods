@@ -8115,27 +8115,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/nuclear_bomb": {
+  "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
-      "nuclear_bomb": "2025-06-04 19:12:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-06-04 19:39:18 +0000"
+      "enter_acid_with_armor": "2025-06-04 18:48:37 +0000"
     },
     "done": true
   },
@@ -8151,15 +8133,51 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+  "alexscaves:alexscaves/defeat_nucleeper": {
     "criteria": {
-      "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
+      "killed": "2025-06-04 19:06:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-06-04 19:12:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-06-04 19:12:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2025-06-04 19:16:53 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/tame_tremorzilla": {
     "criteria": {
       "killed": "2025-06-04 19:18:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
     },
     "done": true
   },
@@ -8172,18 +8190,6 @@
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
-    "criteria": {
-      "enter_acid_with_armor": "2025-06-04 18:48:37 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/leather_from_obi_belt": {
-    "criteria": {
-      "has_obi_belt": "2025-06-04 19:45:35 +0000"
     },
     "done": true
   },
@@ -8211,12 +8217,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-06-04 19:39:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
@@ -8229,21 +8229,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-06-04 19:41:52 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
-    "criteria": {
-      "hatch_tremorzilla_egg": "2025-06-04 19:16:53 +0000"
     },
     "done": true
   },
@@ -8265,12 +8253,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_nucleeper": {
-    "criteria": {
-      "killed": "2025-06-04 19:06:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
@@ -8280,12 +8262,6 @@
   "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-06-04 19:18:42 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/uranium_rod": {
-    "criteria": {
-      "limestone": "2025-06-04 19:12:16 +0000"
     },
     "done": true
   },
@@ -8301,9 +8277,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-04 19:39:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-04 19:39:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-06-04 19:39:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-04 19:41:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2025-06-04 19:45:35 +0000"
     },
     "done": true
   },

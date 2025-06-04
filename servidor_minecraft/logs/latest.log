@@ -692,3 +692,12 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [04Jun2025 19:46:34.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.7870444305797504
 [04Jun2025 19:47:00.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Creative Mode]
 [04Jun2025 19:47:21.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set own game mode to Survival Mode]
+[04Jun2025 19:51:24.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.more_villargers.woodcutter'/20686, l='ServerLevel[world]', x=2318.70, y=67.00, z=4192.72] died, message: 'entity.minecraft.villager.more_villargers.woodcutter was slain by Zombie'
+[04Jun2025 19:53:07.095] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[04Jun2025 19:53:07.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[04Jun2025 19:53:07.099] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[04Jun2025 19:55:21.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:50807] logged in with entity id 24573 at (2306.4289595904106, 62.5, 4142.699999988079)
+[04Jun2025 19:55:21.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[04Jun2025 19:55:23.527] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[04Jun2025 19:55:23.527] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[04Jun2025 19:57:03.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Set the weather to clear]
