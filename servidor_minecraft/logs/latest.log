@@ -585,3 +585,6 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [06Jun2025 11:57:55.931] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [06Jun2025 12:03:59.925] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [06Jun2025 12:03:59.928] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[06Jun2025 12:08:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The Soul Forge]
+[06Jun2025 12:10:24.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has completed the challenge [The broken Nether's warmachine]
+[06Jun2025 12:14:12.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5591ms or 111 ticks behind
