@@ -8309,9 +8309,9 @@
     },
     "done": true
   },
-  "cataclysm:kill_monstrosity": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "netheritemonstrosity": "2025-06-06 12:10:24 +0000"
+      "blacksmith": "2025-06-06 12:08:01 +0000"
     },
     "done": true
   },
@@ -8321,9 +8321,57 @@
     },
     "done": true
   },
-  "cataclysm:find_soul_black_smith": {
+  "cataclysm:kill_monstrosity": {
     "criteria": {
-      "blacksmith": "2025-06-06 12:08:01 +0000"
+      "netheritemonstrosity": "2025-06-06 12:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-06 12:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-06 12:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-06 12:19:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-06-06 15:54:30 +0000"
     },
     "done": true
   },
