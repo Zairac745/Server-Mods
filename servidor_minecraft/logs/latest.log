@@ -582,3 +582,6 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [06Jun2025 11:48:59.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
 [06Jun2025 11:49:01.864] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
 [06Jun2025 11:49:01.866] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[06Jun2025 11:57:55.931] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[06Jun2025 12:03:59.925] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[06Jun2025 12:03:59.928] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
