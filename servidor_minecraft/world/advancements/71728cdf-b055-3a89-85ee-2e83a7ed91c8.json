@@ -8345,6 +8345,18 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-06-06 16:00:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-06-06 15:58:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2025-06-06 15:54:30 +0000"
@@ -8354,6 +8366,18 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-06-06 15:58:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-06-06 15:58:14 +0000"
     },
     "done": true
   },
@@ -8369,9 +8393,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-06 15:58:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-06-06 15:58:14 +0000"
     },
     "done": true
   },
