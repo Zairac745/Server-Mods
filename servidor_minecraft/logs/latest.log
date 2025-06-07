@@ -632,3 +632,7 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [07Jun2025 15:57:13.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
 [07Jun2025 15:57:13.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
 [07Jun2025 15:57:13.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[07Jun2025 16:46:28.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:59295] logged in with entity id 35963 at (2321.977730301604, 63.0, 4168.253380963226)
+[07Jun2025 16:46:28.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[07Jun2025 16:46:28.908] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[07Jun2025 16:46:28.908] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
