@@ -598,3 +598,24 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [07Jun2025 15:00:24.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Glow Ink Sac] to Zairac74509]
 [07Jun2025 15:00:27.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Glow Ink Sac] to Zairac74509]
 [07Jun2025 15:00:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Glow and Behold!]
+[07Jun2025 15:06:10.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[07Jun2025 15:06:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Ink Sac] to Zairac74509]
+[07Jun2025 15:06:27.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Glow Ink Sac] to Zairac74509]
+[07Jun2025 15:06:27.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Glow Ink Sac] to Zairac74509]
+[07Jun2025 15:06:30.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Blue Dye] to Zairac74509]
+[07Jun2025 15:06:32.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Red Dye] to Zairac74509]
+[07Jun2025 15:09:04.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Stone Brick Stairs] to Zairac74509]
+[07Jun2025 15:09:04.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Stone Brick Stairs] to Zairac74509]
+[07Jun2025 15:09:04.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Stone Brick Stairs] to Zairac74509]
+[07Jun2025 15:09:04.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Stone Brick Stairs] to Zairac74509]
+[07Jun2025 15:09:29.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[07Jun2025 15:09:29.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[07Jun2025 15:09:29.583] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
+[07Jun2025 15:09:29.649] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jun2025 15:10:03.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.182.195.34:56703] logged in with entity id 15918 at (2344.010610479812, 63.0, 4124.295833750698)
+[07Jun2025 15:10:03.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[07Jun2025 15:10:04.148] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zairac74509 (18)
+[07Jun2025 15:10:04.149] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zairac74509
+[07Jun2025 15:12:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 64 [Glow Ink Sac] to Zairac74509]
+[07Jun2025 15:12:58.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Glow Ink Sac] to Zairac74509]
+[07Jun2025 15:13:01.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Blue Dye] to Zairac74509]

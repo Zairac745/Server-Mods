@@ -8561,6 +8561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-07 14:52:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-06-07 14:58:34 +0000"
@@ -8576,12 +8582,6 @@
   "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-07 14:58:34 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/red_industrial_lamp": {
-    "criteria": {
-      "has_red_industrial_lamp": "2025-06-07 15:00:51 +0000"
     },
     "done": true
   },
@@ -8609,33 +8609,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
-    "criteria": {
-      "has_dye": "2025-06-07 15:00:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-07 15:00:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-07 15:00:51 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-07 14:58:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2025-06-07 15:00:51 +0000"
     },
     "done": true
   },
@@ -8651,18 +8627,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-06-07 14:52:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_red_dye": "2025-06-07 15:00:51 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-07 14:58:34 +0000"
@@ -8672,12 +8636,6 @@
   "securitycraft:recipes/building_blocks/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-06-07 14:58:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/make_a_sign_glow": {
-    "criteria": {
-      "make_a_sign_glow": "2025-06-07 15:00:32 +0000"
     },
     "done": true
   },
@@ -8693,33 +8651,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-06-07 15:00:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-06-07 14:58:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-07 15:00:51 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2025-06-07 14:58:34 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/small_red_industrial_lamp": {
-    "criteria": {
-      "has_small_red_industrial_lamp": "2025-06-07 15:00:51 +0000"
     },
     "done": true
   },
@@ -8741,6 +8681,84 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-07 14:58:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-07 14:58:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-07 14:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-06-07 15:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-06-07 15:00:32 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2025-06-07 15:00:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_red_from_white": {
+    "criteria": {
+      "has_dye": "2025-06-07 15:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 15:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 15:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-06-07 15:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-06-07 15:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-07 15:00:51 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2025-06-07 15:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-06-07 15:00:51 +0000"
@@ -8759,21 +8777,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_sign": "2025-06-07 14:58:34 +0000"
+      "has_allium": "2025-06-07 15:02:23 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "has_sign": "2025-06-07 14:58:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-06-07 14:58:34 +0000"
+      "has_lapis_block": "2025-06-07 15:12:05 +0000"
     },
     "done": true
   },
