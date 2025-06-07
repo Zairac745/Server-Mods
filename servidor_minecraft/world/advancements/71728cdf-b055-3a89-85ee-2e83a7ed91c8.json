@@ -8789,6 +8789,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-06-07 15:22:30 +0000"
+    },
+    "done": true
+  },
   "celestial_artifacts:recipes/misc/sea_god_scroll": {
     "criteria": {
       "has_trident": "2025-06-07 15:16:01 +0000"
