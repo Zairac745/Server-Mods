@@ -595,3 +595,6 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [07Jun2025 14:52:22.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 0.8634601795347484
 [07Jun2025 14:52:22.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 1.8951890262168474
 [07Jun2025 14:52:22.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tremorzilla (vehicle of Zairac74509) moved wrongly! 2.6818140261113768
+[07Jun2025 15:00:24.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Glow Ink Sac] to Zairac74509]
+[07Jun2025 15:00:27.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Glow Ink Sac] to Zairac74509]
+[07Jun2025 15:00:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Glow and Behold!]
