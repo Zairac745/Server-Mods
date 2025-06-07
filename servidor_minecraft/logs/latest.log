@@ -623,3 +623,12 @@ java.net.UnknownHostException: overview-ingredients.gl.joinmc.link: No address a
 [07Jun2025 15:21:48.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [An Ear-Shattering Roar]
 [07Jun2025 15:22:30.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Dragon Commander]
 [07Jun2025 15:24:50.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zairac74509: Gave 1 [Diamond] to Zairac74509]
+[07Jun2025 15:47:04.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[07Jun2025 15:47:26.194] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[07Jun2025 15:52:46.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2641, y=66, z=3969} BlockPos{x=2640, y=63, z=3969}
+[07Jun2025 15:52:46.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2641, y=65, z=3969} BlockPos{x=2640, y=63, z=3969}
+[07Jun2025 15:55:36.021] [Worker-Main-54/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[07Jun2025 15:55:36.046] [Worker-Main-54/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[07Jun2025 15:57:13.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[07Jun2025 15:57:13.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[07Jun2025 15:57:13.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zairac74509
