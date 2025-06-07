@@ -8783,9 +8783,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_light_gray": {
+    "criteria": {
+      "has_wool": "2025-06-07 15:40:49 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/light_gray_bar_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-07 15:40:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2025-06-07 15:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-07 15:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-07 15:40:49 +0000"
     },
     "done": true
   },
@@ -8801,9 +8825,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/light_gray_flag": {
+    "criteria": {
+      "has_light_gray_flag": "2025-06-07 15:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-06-07 15:12:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-07 15:40:49 +0000"
     },
     "done": true
   },
