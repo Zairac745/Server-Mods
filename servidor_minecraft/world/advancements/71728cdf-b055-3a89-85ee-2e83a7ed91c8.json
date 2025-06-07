@@ -8345,18 +8345,6 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
-    "criteria": {
-      "umvuthana_raptor": "2025-06-06 16:00:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_leggings": {
-    "criteria": {
-      "has_item": "2025-06-06 15:58:14 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2025-06-06 15:54:30 +0000"
@@ -8366,6 +8354,30 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-06-06 15:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-06-06 15:58:14 +0000"
     },
     "done": true
   },
@@ -8381,9 +8393,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+  "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
-      "has_item": "2025-06-06 15:54:30 +0000"
+      "has_item": "2025-06-06 15:58:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-06-06 15:58:14 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-06-06 16:00:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-06-06 16:09:32 +0000"
     },
     "done": true
   },
@@ -8411,39 +8441,129 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-06-06 15:54:30 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2025-06-06 16:12:38 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_chestplate": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_item": "2025-06-06 15:58:14 +0000"
+      "has_netherite_scrap": "2025-06-06 16:19:00 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "has_item": "2025-06-06 16:09:32 +0000"
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
-      "has_item": "2025-06-06 15:54:30 +0000"
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_helmet": {
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
     "criteria": {
-      "has_item": "2025-06-06 15:58:14 +0000"
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-06-06 16:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 16:36:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-06-06 16:43:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-06-06 16:43:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-06-06 16:43:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-06 16:43:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-06-06 16:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-07 14:52:00 +0000"
     },
     "done": true
   },
